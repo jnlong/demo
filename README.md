@@ -1,1 +1,1 @@
-"# demo" 
+今天写一个H5活动，用到了表单验证。 研究了一下jqueryValidate，这个插件是否强大。 看了下菜鸟教程的介绍，总结的很详细，但是写的比较分散，所以还是通读了jqueryValidate源码才看懂自己需要的各个参数的含义和调用方法。 菜鸟教程jQuery Validate：http://www.runoob.com/jquery/jquery-plugin-validate.html 我总结了常用的方法和流程，写成了一个demo。 下面我把我写的demo贴上，方便大家参考使用
