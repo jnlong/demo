@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="utf-8">
+  <title>Path | Node.js</title>
+  
+  
+  
+  
+<link rel="stylesheet" href="index_0_main.css"><link rel="icon" sizes="32x32" type="image/png" href="_/favicon.png"></head>
+<body class="alt apidoc" id="api-section-path">
+  <div id="content" class="clearfix">
+    <div id="column2" class="interior">
+      <div id="intro" class="interior">
+        <a href="index.html" title="Go back to the home page">
+          Node.js
+        </a>
+      </div>
+      <ul>
+<li><a class="nav-documentation" href="documentation.html">About these Docs</a></li>
+<li><a class="nav-synopsis" href="synopsis.html">Usage &amp; Example</a></li>
+</ul>
+<div class="line"></div>
+
+<ul>
+<li><a class="nav-assert" href="assert.html">Assertion Testing</a></li>
+<li><a class="nav-buffer" href="buffer.html">Buffer</a></li>
+<li><a class="nav-addons" href="addons.html">C/C++ Addons</a></li>
+<li><a class="nav-child_process" href="child_process.html">Child Processes</a></li>
+<li><a class="nav-cluster" href="cluster.html">Cluster</a></li>
+<li><a class="nav-cli" href="cli.html">Command Line Options</a></li>
+<li><a class="nav-console" href="console.html">Console</a></li>
+<li><a class="nav-crypto" href="crypto.html">Crypto</a></li>
+<li><a class="nav-debugger" href="debugger.html">Debugger</a></li>
+<li><a class="nav-dns" href="dns.html">DNS</a></li>
+<li><a class="nav-domain" href="domain.html">Domain</a></li>
+<li><a class="nav-errors" href="errors.html">Errors</a></li>
+<li><a class="nav-events" href="events.html">Events</a></li>
+<li><a class="nav-fs" href="fs.html">File System</a></li>
+<li><a class="nav-globals" href="globals.html">Globals</a></li>
+<li><a class="nav-http" href="http.html">HTTP</a></li>
+<li><a class="nav-https" href="https.html">HTTPS</a></li>
+<li><a class="nav-modules" href="modules.html">Modules</a></li>
+<li><a class="nav-net" href="net.html">Net</a></li>
+<li><a class="nav-os" href="os.html">OS</a></li>
+<li><a class="nav-path active" href="path.html">Path</a></li>
+<li><a class="nav-process" href="process.html">Process</a></li>
+<li><a class="nav-punycode" href="punycode.html">Punycode</a></li>
+<li><a class="nav-querystring" href="querystring.html">Query Strings</a></li>
+<li><a class="nav-readline" href="readline.html">Readline</a></li>
+<li><a class="nav-repl" href="repl.html">REPL</a></li>
+<li><a class="nav-stream" href="stream.html">Stream</a></li>
+<li><a class="nav-string_decoder" href="string_decoder.html">String Decoder</a></li>
+<li><a class="nav-timers" href="timers.html">Timers</a></li>
+<li><a class="nav-tls" href="tls.html">TLS/SSL</a></li>
+<li><a class="nav-tty" href="tty.html">TTY</a></li>
+<li><a class="nav-dgram" href="dgram.html">UDP/Datagram</a></li>
+<li><a class="nav-url" href="url.html">URL</a></li>
+<li><a class="nav-util" href="util.html">Utilities</a></li>
+<li><a class="nav-v8" href="v8.html">V8</a></li>
+<li><a class="nav-vm" href="vm.html">VM</a></li>
+<li><a class="nav-zlib" href="zlib.html">ZLIB</a></li>
+</ul>
+<div class="line"></div>
+
+<ul>
+<li><a class="nav-https-github-com-nodejs-node" href="https://github.com/nodejs/node" target="_blank" rel="nofollow">GitHub Repo &amp; Issue Tracker</a></li>
+<li><a class="nav-http-groups-google-com-group-nodejs" href="http://groups.google.com/group/nodejs" target="_blank" rel="nofollow">Mailing List</a></li>
+</ul>
+
+    </div>
+
+    <div id="column1" data-id="path" class="interior">
+      <header>
+        <h1>Node.js v6.2.0 Documentation</h1>
+        <div id="gtoc">
+          <p>
+            <a href="index.html" name="toc">Index</a> |
+            <a href="all.html">View on single page</a> |
+            <a href="https://nodejs.org/dist/v6.2.0/docs/api/path.json" target="_blank" rel="nofollow">View as JSON</a>
+          </p>
+        </div>
+        <hr>
+      </header>
+
+      <div id="toc">
+        <h2>Table of Contents</h2>
+        <ul>
+<li><a href="#path_path">Path</a><ul>
+<li><a href="#path_path_basename_path_ext">path.basename(path[, ext])</a></li>
+<li><a href="#path_path_delimiter">path.delimiter</a></li>
+<li><a href="#path_path_dirname_path">path.dirname(path)</a></li>
+<li><a href="#path_path_extname_path">path.extname(path)</a></li>
+<li><a href="#path_path_format_pathobject">path.format(pathObject)</a></li>
+<li><a href="#path_path_isabsolute_path">path.isAbsolute(path)</a></li>
+<li><a href="#path_path_join_path1_path2">path.join([path1][, path2][, ...])</a></li>
+<li><a href="#path_path_normalize_path">path.normalize(path)</a></li>
+<li><a href="#path_path_parse_path">path.parse(path)</a></li>
+<li><a href="#path_path_posix">path.posix</a></li>
+<li><a href="#path_path_relative_from_to">path.relative(from, to)</a></li>
+<li><a href="#path_path_resolve_from_to">path.resolve([from ...], to)</a></li>
+<li><a href="#path_path_sep">path.sep</a></li>
+<li><a href="#path_path_win32">path.win32</a></li>
+</ul>
+</li>
+</ul>
+
+      </div>
+
+      <div id="apicontent">
+        <h1>Path<span><a class="mark" href="#path_path" id="path_path">#</a></span></h1>
+<pre class="api_stability api_stability_2">Stability: 2 - Stable</pre><p>This module contains utilities for handling and transforming file
+paths. The file system is not consulted to check whether paths are valid.</p>
+<p>Use <code>require(&apos;path&apos;)</code> to use this module.  The following methods are provided:</p>
+<h2>path.basename(path[, ext])<span><a class="mark" href="#path_path_basename_path_ext" id="path_path_basename_path_ext">#</a></span></h2>
+<p>Return the last portion of a path, similar to the Unix <code>basename</code> command.
+<code>path</code> must be a string. <code>ext</code>, if given, must also be a string.</p>
+<p>Examples:</p>
+<pre><code class="lang-js">path.basename(&apos;/foo/bar/baz/asdf/quux.html&apos;)
+// returns &apos;quux.html&apos;
+
+path.basename(&apos;/foo/bar/baz/asdf/quux.html&apos;, &apos;.html&apos;)
+// returns &apos;quux&apos;
+</code></pre>
+<h2>path.delimiter<span><a class="mark" href="#path_path_delimiter" id="path_path_delimiter">#</a></span></h2>
+<p>The platform-specific path delimiter, <code>;</code> or <code>&apos;:&apos;</code>.</p>
+<p>An example on *nix:</p>
+<pre><code class="lang-js">console.log(process.env.PATH)
+// &apos;/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin&apos;
+
+process.env.PATH.split(path.delimiter)
+// returns [&apos;/usr/bin&apos;, &apos;/bin&apos;, &apos;/usr/sbin&apos;, &apos;/sbin&apos;, &apos;/usr/local/bin&apos;]
+</code></pre>
+<p>An example on Windows:</p>
+<pre><code class="lang-js">console.log(process.env.PATH)
+// &apos;C:\Windows\system32;C:\Windows;C:\Program Files\node\&apos;
+
+process.env.PATH.split(path.delimiter)
+// returns [&apos;C:\\Windows\\system32&apos;, &apos;C:\\Windows&apos;, &apos;C:\\Program Files\\node\\&apos;]
+</code></pre>
+<h2>path.dirname(path)<span><a class="mark" href="#path_path_dirname_path" id="path_path_dirname_path">#</a></span></h2>
+<p>Return the directory name of a path, similar to the Unix <code>dirname</code> command.
+<code>path</code> must be a string.</p>
+<p>Example:</p>
+<pre><code class="lang-js">path.dirname(&apos;/foo/bar/baz/asdf/quux&apos;)
+// returns &apos;/foo/bar/baz/asdf&apos;
+</code></pre>
+<h2>path.extname(path)<span><a class="mark" href="#path_path_extname_path" id="path_path_extname_path">#</a></span></h2>
+<p>Return the extension of the path, from the last &apos;.&apos; to end of string
+in the last portion of the path.  If there is no &apos;.&apos; in the last portion
+of the path or the first character of it is &apos;.&apos;, then it returns
+an empty string. <code>path</code> must be a string.</p>
+<p>Examples:</p>
+<pre><code class="lang-js">path.extname(&apos;index.html&apos;)
+// returns &apos;.html&apos;
+
+path.extname(&apos;index.coffee.md&apos;)
+// returns &apos;.md&apos;
+
+path.extname(&apos;index.&apos;)
+// returns &apos;.&apos;
+
+path.extname(&apos;index&apos;)
+// returns &apos;&apos;
+
+path.extname(&apos;.index&apos;)
+// returns &apos;&apos;
+</code></pre>
+<h2>path.format(pathObject)<span><a class="mark" href="#path_path_format_pathobject" id="path_path_format_pathobject">#</a></span></h2>
+<p>Returns a path string from an object. This is the opposite of <a href="#path_path_parse_path"><code>path.parse</code></a>.</p>
+<p>If <code>pathObject</code> has <code>dir</code> and <code>base</code> properties, the returned string will
+be a concatenation of the <code>dir</code> property, the platform-dependent path separator,
+and the <code>base</code> property.</p>
+<p>If the <code>dir</code> property is not supplied, the <code>root</code> property will be used as the
+<code>dir</code> property. However, it will be assumed that the <code>root</code> property already
+ends with the platform-dependent path separator. In this case, the returned
+string will be the concatenation of the <code>root</code> property and the <code>base</code> property.</p>
+<p>If both the <code>dir</code> and the <code>root</code> properties are not supplied, then the returned
+string will be the contents of the <code>base</code> property.</p>
+<p>If the <code>base</code> property is not supplied, a concatenation of the <code>name</code> property
+and the <code>ext</code> property will be used as the <code>base</code> property.</p>
+<p>Examples:</p>
+<p>Some Posix system examples:</p>
+<pre><code class="lang-js">// If `dir` and `base` are provided, `dir` + platform separator + `base`
+// will be returned.
+path.format({
+    dir: &apos;/home/user/dir&apos;,
+    base: &apos;file.txt&apos;
+});
+// returns &apos;/home/user/dir/file.txt&apos;
+
+// `root` will be used if `dir` is not specified.
+// `name` + `ext` will be used if `base` is not specified.
+// If only `root` is provided or `dir` is equal to `root` then the
+// platform separator will not be included.
+path.format({
+    root: &apos;/&apos;,
+    base: &apos;file.txt&apos;
+});
+// returns &apos;/file.txt&apos;
+
+path.format({
+    dir: &apos;/&apos;,
+    root: &apos;/&apos;,
+    name: &apos;file&apos;,
+    ext: &apos;.txt&apos;
+});
+// returns &apos;/file.txt&apos;
+
+// `base` will be returned if `dir` or `root` are not provided.
+path.format({
+    base: &apos;file.txt&apos;
+});
+// returns &apos;file.txt&apos;
+</code></pre>
+<p>An example on Windows:</p>
+<pre><code class="lang-js">path.format({
+    root : &quot;C:\\&quot;,
+    dir : &quot;C:\\path\\dir&quot;,
+    base : &quot;file.txt&quot;,
+    ext : &quot;.txt&quot;,
+    name : &quot;file&quot;
+})
+// returns &apos;C:\\path\\dir\\file.txt&apos;
+</code></pre>
+<h2>path.isAbsolute(path)<span><a class="mark" href="#path_path_isabsolute_path" id="path_path_isabsolute_path">#</a></span></h2>
+<p>Determines whether <code>path</code> is an absolute path. An absolute path will always
+resolve to the same location, regardless of the working directory. <code>path</code> must
+be a string.</p>
+<p>Examples on *nix:</p>
+<pre><code class="lang-js">path.isAbsolute(&apos;/foo/bar&apos;) // true
+path.isAbsolute(&apos;/baz/..&apos;)  // true
+path.isAbsolute(&apos;qux/&apos;)     // false
+path.isAbsolute(&apos;.&apos;)        // false
+</code></pre>
+<p>Examples on Windows:</p>
+<pre><code class="lang-js">path.isAbsolute(&apos;//server&apos;)  // true
+path.isAbsolute(&apos;C:/foo/..&apos;) // true
+path.isAbsolute(&apos;bar\\baz&apos;)  // false
+path.isAbsolute(&apos;.&apos;)         // false
+</code></pre>
+<p><em>Note:</em> If the path string passed as parameter is a zero-length string, unlike
+        other path module functions, it will be used as-is and <code>false</code> will be
+        returned.</p>
+<h2>path.join([path1][, path2][, ...])<span><a class="mark" href="#path_path_join_path1_path2" id="path_path_join_path1_path2">#</a></span></h2>
+<p>Join all arguments together and normalize the resulting path.</p>
+<p>All arguments must be strings.  In v0.8, non-string arguments were
+silently ignored.  In v0.10 and up, an exception is thrown.</p>
+<p>Examples:</p>
+<pre><code class="lang-js">path.join(&apos;/foo&apos;, &apos;bar&apos;, &apos;baz/asdf&apos;, &apos;quux&apos;, &apos;..&apos;)
+// returns &apos;/foo/bar/baz/asdf&apos;
+
+path.join(&apos;foo&apos;, {}, &apos;bar&apos;)
+// throws exception
+TypeError: Arguments to path.join must be strings
+</code></pre>
+<p><em>Note:</em> If the arguments to <code>join</code> have zero-length strings, unlike other path
+        module functions, they will be ignored. If the joined path string is a
+        zero-length string then <code>&apos;.&apos;</code> will be returned, which represents the
+        current working directory.</p>
+<h2>path.normalize(path)<span><a class="mark" href="#path_path_normalize_path" id="path_path_normalize_path">#</a></span></h2>
+<p>Normalize a path, taking care of <code>&apos;..&apos;</code> and <code>&apos;.&apos;</code> parts. <code>path</code> must be a
+string.</p>
+<p>When multiple slashes are found, they&apos;re replaced by a single one;
+when the path contains a trailing slash, it is preserved.
+On Windows backslashes are used.</p>
+<p>Example:</p>
+<pre><code class="lang-js">path.normalize(&apos;/foo/bar//baz/asdf/quux/..&apos;)
+// returns &apos;/foo/bar/baz/asdf&apos;
+</code></pre>
+<p><em>Note:</em> If the path string passed as argument is a zero-length string then <code>&apos;.&apos;</code>
+        will be returned, which represents the current working directory.</p>
+<h2>path.parse(path)<span><a class="mark" href="#path_path_parse_path" id="path_path_parse_path">#</a></span></h2>
+<p>Returns an object from a path. <code>path</code> must be a string.</p>
+<p>An example on *nix:</p>
+<pre><code class="lang-js">path.parse(&apos;/home/user/dir/file.txt&apos;)
+// returns
+// {
+//    root : &quot;/&quot;,
+//    dir : &quot;/home/user/dir&quot;,
+//    base : &quot;file.txt&quot;,
+//    ext : &quot;.txt&quot;,
+//    name : &quot;file&quot;
+// }
+</code></pre>
+<p>An example on Windows:</p>
+<pre><code class="lang-js">path.parse(&apos;C:\\path\\dir\\index.html&apos;)
+// returns
+// {
+//    root : &quot;C:\\&quot;,
+//    dir : &quot;C:\\path\\dir&quot;,
+//    base : &quot;index.html&quot;,
+//    ext : &quot;.html&quot;,
+//    name : &quot;index&quot;
+// }
+</code></pre>
+<h2>path.posix<span><a class="mark" href="#path_path_posix" id="path_path_posix">#</a></span></h2>
+<p>Provide access to aforementioned <code>path</code> methods but always interact in a posix
+compatible way.</p>
+<h2>path.relative(from, to)<span><a class="mark" href="#path_path_relative_from_to" id="path_path_relative_from_to">#</a></span></h2>
+<p>Solve the relative path from <code>from</code> to <code>to</code>. <code>from</code> and <code>to</code> must be strings.</p>
+<p>At times we have two absolute paths, and we need to derive the relative
+path from one to the other.  This is actually the reverse transform of
+<code>path.resolve</code>, which means we see that:</p>
+<pre><code class="lang-js">path.resolve(from, path.relative(from, to)) == path.resolve(to)
+</code></pre>
+<p>Examples:</p>
+<pre><code class="lang-js">path.relative(&apos;C:\\orandea\\test\\aaa&apos;, &apos;C:\\orandea\\impl\\bbb&apos;)
+// returns &apos;..\\..\\impl\\bbb&apos;
+
+path.relative(&apos;/data/orandea/test/aaa&apos;, &apos;/data/orandea/impl/bbb&apos;)
+// returns &apos;../../impl/bbb&apos;
+</code></pre>
+<p><em>Note:</em> If the arguments to <code>relative</code> have zero-length strings then the current
+        working directory will be used instead of the zero-length strings. If
+        both the paths are the same then a zero-length string will be returned.</p>
+<h2>path.resolve([from ...], to)<span><a class="mark" href="#path_path_resolve_from_to" id="path_path_resolve_from_to">#</a></span></h2>
+<p>Resolves <code>to</code> to an absolute path. All arguments must be strings.</p>
+<p>If <code>to</code> isn&apos;t already absolute <code>from</code> arguments are prepended in right to left
+order, until an absolute path is found. If after using all <code>from</code> paths still
+no absolute path is found, the current working directory is used as well. The
+resulting path is normalized, and trailing slashes are removed unless the path
+gets resolved to the root directory. Empty string <code>from</code> arguments are
+ignored.</p>
+<p>Another way to think of it is as a sequence of <code>cd</code> commands in a shell.</p>
+<pre><code class="lang-js">path.resolve(&apos;foo/bar&apos;, &apos;/tmp/file/&apos;, &apos;..&apos;, &apos;a/../subfile&apos;)
+</code></pre>
+<p>Is similar to:</p>
+<pre><code>cd foo/bar
+cd /tmp/file/
+cd ..
+cd a/../subfile
+pwd
+</code></pre><p>The difference is that the different paths don&apos;t need to exist and may also be
+files.</p>
+<p>Examples:</p>
+<pre><code class="lang-js">path.resolve(&apos;/foo/bar&apos;, &apos;./baz&apos;)
+// returns &apos;/foo/bar/baz&apos;
+
+path.resolve(&apos;/foo/bar&apos;, &apos;/tmp/file/&apos;)
+// returns &apos;/tmp/file&apos;
+
+path.resolve(&apos;wwwroot&apos;, &apos;static_files/png/&apos;, &apos;../gif/image.gif&apos;)
+// if currently in /home/myself/node, it returns
+// &apos;/home/myself/node/wwwroot/static_files/gif/image.gif&apos;
+</code></pre>
+<h2>path.sep<span><a class="mark" href="#path_path_sep" id="path_path_sep">#</a></span></h2>
+<p>The platform-specific file separator. <code>&apos;\\&apos;</code> or <code>&apos;/&apos;</code>.</p>
+<p>An example on *nix:</p>
+<pre><code class="lang-js">&apos;foo/bar/baz&apos;.split(path.sep)
+// returns [&apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos;]
+</code></pre>
+<p>An example on Windows:</p>
+<pre><code class="lang-js">&apos;foo\\bar\\baz&apos;.split(path.sep)
+// returns [&apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos;]
+</code></pre>
+<h2>path.win32<span><a class="mark" href="#path_path_win32" id="path_path_win32">#</a></span></h2>
+<p>Provide access to aforementioned <code>path</code> methods but always interact in a win32
+compatible way.</p>
+
+      </div>
+    </div>
+  </div>
+  
+  
+  
+<script src="index_0_main.js"></script><script src="index_1_main.js"></script></body>
+</html>
+

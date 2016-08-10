@@ -1,0 +1,44 @@
+{
+  "_id": "jnlong-demo@0.30.0",
+  "author": {
+      "email": "zxl8310@163.com",
+      "name": "kevin"
+  },
+  "description": "jnlong-demo reptile page demo node api",
+  "dependencies": {
+    "fs-extra": "*",
+    "request": "*",
+    "log4js": "*",
+    "cheerio": "*"
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/jprichardson/node-jnlong-demo/issues"
+  },
+  "homepage": "https://github.com/jprichardson/node-jnlong-demo",
+  "keywords": [
+    "fs",
+    "log",
+    "select",
+    "select dom",
+    "demo",
+    "reptile",
+    "reptile page"
+  ],
+  "license": "MIT",
+  "main": "./reptile",
+  "maintainers": [
+    {
+      "email": "zxl8310@163.com",
+      "name": "kevin"
+    }
+  ],
+  "name": "jnlong-demo",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnlong/demo.git"
+  },
+  "version": "0.1.0"
+}
