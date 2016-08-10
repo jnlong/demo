@@ -14,9 +14,9 @@
   "devDependencies": {
   },
   "bugs": {
-    "url": "https://github.com/jprichardson/node-jnlong-demo/issues"
+    "url": "https://github.com/jnlong/demo/issues"
   },
-  "homepage": "https://github.com/jprichardson/node-jnlong-demo",
+  "homepage": "https://github.com/jnlong",
   "keywords": [
     "fs",
     "log",
@@ -27,7 +27,7 @@
     "reptile page"
   ],
   "license": "MIT",
-  "main": "./reptile",
+  "main": "./reptile-demo",
   "maintainers": [
     {
       "email": "zxl8310@163.com",
@@ -35,7 +35,6 @@
     }
   ],
   "name": "jnlong-demo",
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jnlong/demo.git"
