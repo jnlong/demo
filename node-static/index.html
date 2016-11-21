@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{{title}}</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<link rel="apple-touch-icon-precomposed" href="//m.hao123.com/apple-touch-icon-114x114-2.png">
+<style>
+	body{font-family: "Microsoft Yahei",helvetica,arial;}
+	.cn-hide{display: none;}
+	.path{line-height: 50px;font-size: 25px;text-align: center;font-weight: 700;}
+	.path_cont{padding: 0 10px;}
+	.menu_link{display: block;line-height: 30px;font-size: 16px;padding: 5px 15px;}
+</style>
+</head>
+<body>
+    <h1 class="path">当前目录(<span class="path_cont">{{path}}</span>)</h1>
+	
+	<div class="menu" id="menu">
+		{%for link in data%}
+			<a href="{{link}}" class="menu_link">{{ link }}</a>
+		{%endfor%}
+	</div>
+
+</body>
+</html>

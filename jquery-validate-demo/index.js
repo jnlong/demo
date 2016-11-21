@@ -1,5 +1,5 @@
 'use strict';
-(function () {
+(function() {
     var isClick;
     var $btnStart = $('#btnStart');
     var $turn = $('#turn');
@@ -22,7 +22,7 @@
     // start 表单验证代码-jquery-validate-demo
     // 添加验证手机号码method
     $.validator.addMethod('mobile',
-        function (value, element) {
+        function(value, element) {
             return this.optional(element) || /^(13[0-9]|14[57]|15[012356789]|17[0678]|18[0-9])[0-9]{8}$/.test(value);
         },
         '请输入有效的手机号码'
@@ -82,7 +82,7 @@
             url: '/activity/roulette/submit',
             type: 'POST'
         },
-        errorPlacement: function (error, element) {
+        errorPlacement: function(error, element) {
             if (element.is(":radio"))
                 error.appendTo(element.parent().next().next());
             else if (element.is(":checkbox"))
@@ -90,36 +90,36 @@
             else
                 error.appendTo(element.parent());
         },
-        submitHandler: function () {},
-        success: function (label) {
+        submitHandler: function() {},
+        success: function(label) {
             label.addClass("checked");
         },
-        highlight: function (element, errorClass) {
+        highlight: function(element, errorClass) {
             $(element).parent().next().find("." + errorClass).removeClass("checked");
         }
     });
     // 点击提交表单按钮
-    $btnSubmit.on('click', function () {
+    $btnSubmit.on('click', function() {
         if (valid.checkForm()) { //调用valid.checkForm进行验证表单
-            submit(function () { //通过ajax方式提交表单
+            submit(function() { //通过ajax方式提交表单
                 $tipsInfo.hide();
                 $tipsMsg.show();
             });
         }
     });
     // ajax方式提交表单，并且根据返回结果弹出相应提示信息
-    var submit = function (callback) {
+    var submit = function(callback) {
         // 将表单数据转换成json格式
         var arrForm = $form.serializeArray();
         var jsonFrom = {};
-        arrForm.forEach(function (v, i) {
+        arrForm.forEach(function(v, i) {
             jsonFrom[v.name] = v.value;
         });
         $.ajax({
             url: '', //ajax提交信息地址
             type: 'POST',
             data: jsonFrom,
-            success: function (res) {
+            success: function(res) {
                 if (res && res.code === 0) {
                     callback();
                 } else if (res && res.showmessage) {
@@ -128,7 +128,7 @@
                     showMessage();
                 }
             },
-            error: function () {
+            error: function() {
                 showMessage();
             }
         });
@@ -142,10 +142,10 @@
         isClick = false;
     };
     init(true);
-    var removeAni = function () {
+    var removeAni = function() {
         $turn.css({ 'transition': '', 'transform': '' });
     };
-    var showForm = function (index) {
+    var showForm = function(index) {
         $bg.show();
         if (index != 0 && index <= prizeList.length) {
             $tipsInfo.find('.des').text(prize.title);
@@ -155,15 +155,15 @@
             $tipsFail.show();
         }
     };
-    var showMessage = function (msg) {
+    var showMessage = function(msg) {
         msg = msg || '信息提交失败，请稍后重试！';
         $tipsBox.show().find('.msg').text(msg);
-        setTimeout(function () {
+        setTimeout(function() {
             $tipsBox.hide();
         }, 3000);
     };
     // 点击开始抽奖按钮，触发
-    var start = function (index) {
+    var start = function(index) {
         if (isClick) {
             return;
         }
@@ -173,20 +173,20 @@
         var goDeg = (36 + prize.num) * 60 + 'deg';
         $turn.css({ 'transition': 'all 6s ease-in-out', 'transform': 'rotateZ(' + goDeg + ')' }); //
         isClick = true;
-        setTimeout(function () {
+        setTimeout(function() {
             removeAni();
             showForm(index);
             init();
         }, 7000);
     };
-    $btnStart.on('click', function () {
+    $btnStart.on('click', function() {
         start(res);
     });
-    $('.info .close').on('click', function () {
+    $('.info .close').on('click', function() {
         $(this).parents('.cn_tips').hide();
         $bg.hide();
     });
-    $('#btnMsg,#btnFail').on('click', function () {
+    $('#btnMsg,#btnFail').on('click', function() {
         $bg.hide();
         $tipsFail.hide();
         $tipsMsg.hide();

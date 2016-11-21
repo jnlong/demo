@@ -1,0 +1,26 @@
+fcad-second add srcid
+
+    setSrcid: function (tn, srcid) {
+        var me = this;
+        var srcList = {
+            '1014994y': '601',
+            '1014994e': '602',
+            '1014994x': '603',
+            '1014995k': '604',
+            '1014995a': '605',
+            '1014995e': '606',
+            '1014995b': '607',
+            '1014995g': '608',
+            '1014994f': '609',
+            '1014995d': '610',
+            '1014995c': '611',
+            '1014995f': '612'
+        }
+        var newSrcid = srcList[tn];
+        console.log('fcAdSecond1',  tn + ',srcid:' + srcid + ',newsrcid:' + newSrcid + ',' + me.page);
+        if (newSrcid && newSrcid !== srcid) {
+            srcid = newSrcid;
+        }
+        console.log('fcAdSecond2', 'newsrcid:' + newSrcid);
+        return srcid;
+    },
