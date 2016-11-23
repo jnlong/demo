@@ -1,0 +1,56 @@
+'use strict';
+var CONFIG = CONFIG || {};
+CONFIG.flashData = {
+  "casts": [
+    {
+      "name": "Grant Gustin",
+      "img": "MV5BMTYxOTM4MzI4MF5BMl5BanBnXkFtZTcwMTc0MjQyNA@@._V1_SY317_CR20,0,214,317_AL_.jpg",
+      "bio": "Thomas Grant Gustin was born on January 14, 1990 in Norfolk, Virginia, to Tina (Sweeney), a pediatric nurse, and Thomas Gustin. In 2008, he graduated from Granby High School and went on to attend the BFA Music Theatre Program at Elon University in North Carolina for two years. "
+    },
+    {
+      "name": "Candice Patton",
+      "img": "MV5BNDYwNTEzOTA1OF5BMl5BanBnXkFtZTgwNTE1NjIxMTE@._V1_SX214_CR0,0,214,317_AL_.jpg",
+      "bio": "Raised in Plano, Texas, Candice continued her childhood dream of becoming an actress by attending Southern Methodist University in Dallas where she graduated Summa Cum Laude with a B.F.A in Theatre. It was here that she was scouted by The Young and the Restless for a CBS Soap Star Contest and flew out to Los Angeles to briefly join the cast. "
+    },
+    {
+      "name": "Danielle Panabaker",
+      "img": "MV5BMTYxNzc1NDA4OF5BMl5BanBnXkFtZTgwMzExMzQzMjE@._V1_SX214_CR0,0,214,317_AL_.jpg",
+      "bio": "Danielle Panabaker was born on September 19, 1987 in Augusta, Georgia, USA as Danielle Nicole Panabaker. She is an actress and producer, known for Friday the 13th (2009), The Crazies (2010) and Mr. Brooks (2007)."
+    },
+    {
+      "name": "Rick Cosnett",
+      "img": "MV5BMTQwNDkyMzE1M15BMl5BanBnXkFtZTcwODcwOTEwNA@@._V1_SY317_CR32,0,214,317_AL_.jpg",
+      "bio": "Richard James Cosnett was born on April 6, 1983. Early life, grew up in Zimbabwe, moved to Australia and studied BFA Acting at QUT. He now lives in the USA. His work began in the theatre and has spread into film and television and producing. His great grandfather was the head of the Royal School of Music."
+    },
+    {
+      "name": "Carlos Valdes",
+      "img": "MV5BMjcxNzA0MzI0OV5BMl5BanBnXkFtZTgwNDQ0MjU2MzE@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "bio": "Carlos Valdes is an actor, known for The Flash (2014), Arrow (2012) and Me and My Dick (2009)."
+    },
+    {
+      "name": "Tom Cavanagh",
+      "img": "MV5BMTMzNDI4MTI1OV5BMl5BanBnXkFtZTcwNTY3NTQyMg@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "bio": "Thomas Cavanagh was born on October 26th, 1963 in Ottawa, Ontario, the second-oldest of five children. His close-knit family moved to Ghana, Africa when Tom was six. His father educated teachers there. The family moved back to Canada before Tom started high school (which he attended in southern Quebec)."
+    },
+    {
+      "name": "Jesse L. Martin",
+      "img": "MV5BMTI4Mzg1MDQ0OF5BMl5BanBnXkFtZTcwNjI4MzA1Mw@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "bio": "Jesse Martin was born Jesse Lamont Watkins in Virginia's Blue Ridge mountain range. His mother, Virginia Price, was a college career counselor. His father, Jesse Reed Watkins, was a truck driver. His parents divorced when he was very young. His mother then moved his family to Buffalo, New York."
+    },
+    {
+      "name": "Patrick Sabongui",
+      "img": "MV5BMjM4NTY2Mjc4NF5BMl5BanBnXkFtZTgwNDg0MDM4MTE@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "bio": "Patrick's acting career spans over a decade. Born and raised in Montreal, Patrick grew up in a 3-language household speaking French, English and Arabic. Patrick was active in all facets of academic life as well as competing seriously in several sports throughout high school: 12 years of American football."
+    },
+    {
+      "name": "Robbie Amell",
+      "img": "MV5BMTg5NjQwMjY5MF5BMl5BanBnXkFtZTcwMDQ0MTU4OA@@._V1_SX214_CR0,0,214,317_AL_.jpg",
+      "bio": "Along with his sister, Robbie Amell started acting when he was just 6 years old. At 16, he started to land theater roles at Lawrence Park Stage in plays such as Louis and Dave, Picasso at the Lapin Agile and The Importance of Being Earnest. The experience brought Robbie to realize that he wanted to pursue a career in acting."
+    },
+    {
+      "name": "John Wesley Shipp",
+      "img": "MV5BMjE3NjE4MjQxNl5BMl5BanBnXkFtZTgwMTg0MTYzNDE@._V1_SY317_CR51,0,214,317_AL_.jpg",
+      "bio": "John Wesley Shipp was born on January 22, 1955 in Norfolk, Virginia, USA. He is an actor and director, known for One Life to Live (1968), Dawson's Creek (1998) and Guiding Light (1952)."
+    }
+  ]
+}

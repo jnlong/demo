@@ -1,0 +1,47 @@
+/*reset*/
+header,body,section,div,ul,li,dl,dt,dd,h1,h2,h3,span,b,i,p,em,a,input,button,img{margin: 0;padding: 0;}
+body{font-family: helvetica arial;font-size: 15px;background: #fff;color: #000;}
+a,a:visited{text-decoration: none;color: #222;font-size: 14px;}
+ul,li{list-style: none;}
+h1,h2,h3{font-weight: 500;font-size: 15px;}
+img{border: none;}
+/*content*/
+body{padding: 0 10px 0;}
+.title{font-size: 25px;font-weight: 700;padding: 10px 0;}
+
+.list-item{position: relative;float: left;width: 16.66%;padding: 0 5px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	margin-bottom: 15px;
+}
+.list-img{display: block;width: 100%;}
+
+.list-content{display: none;position: absolute;
+	width: 90%;left: 0;top: 0;margin-left: 100%;
+	border: 1px solid #000;background-color: #fff;
+	padding: 0 5px 8px;z-index: 11;
+}
+.list-item:nth-of-type(6n) .list-content{
+	left: -100%;margin-left: 0;
+}
+.list-title{font-size: 14px;font-weight: 800;padding: 8px 0;}
+.list-desc{font-size: 12px;}
+
+/*在不同尺寸做适配*/
+@media screen and (max-width: 1024px){
+	.list-item{width: 20%;}
+	.list-item:nth-of-type(5n) .list-content{left: -100%;margin-left: 0;}
+}
+@media screen and (max-width: 800px){
+	.list-item{width: 25%;}
+	.list-item:nth-of-type(4n) .list-content{left: -100%;margin-left: 0;}
+}
+@media screen and (max-width: 414px){
+	.list-item{width: 33.33%;}
+	.list-item:nth-of-type(3n) .list-content{left: -100%;margin-left: 0;}
+}
+@media screen and (max-width: 320px){
+	.list-item{width: 50%;}
+	.list-item:nth-of-type(2n) .list-content{left: -100%;margin-left: 0;}
+}
