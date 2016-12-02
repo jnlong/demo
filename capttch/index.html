@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+</head>
+<body>
+    <canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML5 canvas tag.</canvas>
+    <script type="text/javascript">
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.font = "30px Arial '宋体'";
+    ctx.strokeText("Hello World 张三", 10, 50);
+    </script>
+    <script type="text/javascript" src="http://s.bdstatic.com/common/openjs/openBox.js?v=20161117"></script>
+    <script type="text/javascript">
+    var openBox = window.OpenBox({
+        showTip: true,
+        from: 'openBoxTest',
+        channel: 'openBoxTextChannel'
+    });
+    // var data = {
+    //     androidCommand: {
+    //         "mode": "0",
+    //         "intent": "intent:#Intent;action=com.baidu.searchbox.action.HOME;category=android.intent.category.DEFAULT;B.key_switch_to_home=true;end",
+    //         "min_v": "25165824"
+    //     },
+    //     iosScheme: 'baiduboxapp://apppage?action=openPage&params={"pageid":"homepage"}&minver='
+    // };
+    // openBox.open(data);
+
+
+
+    // window.openBox = window.OpenBox({
+    //     showTip: true,
+    //     from: 'openBoxTest',
+    //     channel: 'openBoxTextChannel'
+    // });
+    // var btn = document.querySelector('#btn');
+    // btn.addEventListener('click', function() {
+    //     var data = {};
+    //     if (document.querySelector('#androidCommand').value) {
+    //         data.androidCommand = JSON.parse(document.querySelector('#androidCommand').value);
+    //     }
+    //     if (document.querySelector('#iosScheme').value) {
+    //         data.iosScheme = document.querySelector('#iosScheme').value;
+    //     }
+    //     openBox.open(data);
+    // })
+
+
+    // openBox = window.OpenBox({
+    //        showTip: true,
+    //        from: 'openBoxTest',
+    //        channel: 'openBoxTextChannel'
+    //   	});
+    // var btn = document.querySelector('#btn');
+    // btn.addEventListener('click', function(){
+    // 	var data = {};
+    // 	if(document.querySelector('#androidCommand').value){
+    // 		data.androidCommand = JSON.parse(document.querySelector('#androidCommand').value);
+    // 	}
+    // 	if(document.querySelector('#iosScheme').value){
+    // 		data.iosScheme = document.querySelector('#iosScheme').value;
+    // 	}
+    // 	openBox.open(data);
+    // })
+    </script>
+</body>
+
+</html>
