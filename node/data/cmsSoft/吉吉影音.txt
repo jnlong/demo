@@ -1,0 +1,21 @@
+﻿@应用名称|吉吉影音
+@apk大小|9.7MB
+@apk下载地址|http://p.gdown.baidu.com/dd119e7bc15cb5bf391dfab6be341595e482a178281adb7b76f997b808e13c758a18a1f06d2ab58c27e8c7f22945866e3eea38a838606f4bc1fb396d0e00f821a628076301189cb8ff389b06120ad8f790ad864d638f495c7346525932470828762066ed7c21d5abe612e125ebac5915df6b4d764aa69411a05334abe80187b2c1250aa4f4faf9717473bba02fe67398da36fe7861574b7bd94f806911e267ec05f287add56d95236b7331637b0a8f1a4a41faf7eefd32a4bc18102f82f505a8eecb1b85b4a5b8f38f7297757e50c7b5
+@应用简介|"吉吉影音最新手机影音先锋体验无需任何转换播放器,不需要任何插件,不需要安装flash。 它的智能核心技术自动检测视频格式，
+可以播放所有流行格式。
+吉吉影音功能特点：
+1，吉吉影音支持丰富的网络视频协议播放，吉吉影音可直接播放大部分网络视频协议，如http、rtmp、p2p
+、xfplay、影音先锋、吉吉影音jjvod、avi，m4v，mp
+4，wmv，flv，mpeg，mpg，mov，rm，vob，asf，mkv，f4v，ts，tp，m3u，
+m3u8。 - 快库扫描。它会扫描您的手机的视频，让你更轻松地管理视频。
+2，支持操作本地视频，移动，删除等操作。
+3，高清视频，读取字幕，快进切换操作方便。
+4，方便快捷添加本地视频，管理本地文件。
+5，自动扫描本地视频，快速寻找视频文件。"
+@应用类型|影音播放
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/8dc2f4c454494150459f8593a03a5a94.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/978440d1e16adb30272e2fabd9d3820a.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/7218551482ee98223983780afd4d5bda.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/b7237f0e6aa5174b83fc1132f758ba24.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/1e2044c2cc9a00a0972829cc961e370f.jpg
+@描述|为您提供极速流畅的播放体验
+@更多|4.3
+@下载数量|502万
+@三个关键词|吉吉影音下载;吉吉播放器;吉吉下载

@@ -1,0 +1,11 @@
+﻿@应用名称|P2P种子搜索神器
+@apk大小|10.5MB
+@apk下载地址|http://p.gdown.baidu.com/741b01d3f715fb786b7b3e97a608a73aee68a8b265e1c8a66353b11958987aa3febd28d2914762f870c4cde7e3139f3d65b275081f16d541d9eaf702bfea69781538926fee90cd00e871e47cf83f3647c18ccfb60a3ff553fc76368c906a6e4a028ca7a0bc9b879e91e65609e9f9465088c823e2a1739b8788113bf36eb3b78efbc7e367e4ca12fb1625c525c63afdedee8ed08a8db3a0cc3912afe53c70b231
+@应用简介|这是一款具有强大搜索功能的软件，推荐的视频有非常热门的飞碟说，郑多燕减肥操，托比恋爱学等，另外还可以搜索各种学习资源，如韩语学习，瑜伽等。
+@应用类型|办公学习
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/c94b139cf734ee1284ae6aff4611f139.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/8a9118c2b8c42ce532a59d53ad19f8e4.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/d01eed6f377cf3c4e74cf1ea2f7d050b.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/36b93e1e2cf03d27858db13173731dd2.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/a76708cd2fdb7883110dc068a9212a10.jpg
+@描述|搜片神器
+@更多|5
+@下载数量|13万
+@三个关键词|P2P;种子搜索神器;搜片神器

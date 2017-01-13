@@ -1,0 +1,11 @@
+﻿@应用名称|6080新视觉影院
+@apk大小|6.7MB
+@apk下载地址|http://p.gdown.baidu.com/f22b24f4cf2477475c9a5efd9f24d41af54d323a8fa09e770da57c5d8fe3772e5e67af0a41546a12a606dbaf359fd8ac76e87726a742b0dbf94ff05b76336742b4b9f56380c214c01538926fee90cd00b176cb9999dd80d7b44378e3ebbb3626425a3958cd26ed3498759cb8cfbfa39939b61f5d3861e53e4daacd6c6256f645dd774605c7e9391e66ac777769b99c36e2bd838f7bf815474bba71f8fdcbbe23
+@应用简介|自带万能解码器，不用转码，很省电。支持很全的视频格式，支持优酷，土豆，乐视，迅雷影音，快播等下载的电影或连续剧。支持调节播放速度快放慢放，支持视频加密解密保护隐私，支持外挂字幕。支持边看电影边聊天。这是电影爱好者必备播放神器。
+@应用类型|影音播放
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/2d40cef20c7fcafde9617a06687ae4fe.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/814ec60abd94693dedc4a63e4437193a.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/dfed56bacc4e0a3c9fa3f44dd77ae961.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/c256a681f40f47076015098fb16a70c6.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/106425c07f91ab4f467780aff3e73252.jpg
+@描述|品味生活,品味电影
+@更多|2.2
+@下载数量|13万
+@三个关键词|6080;新视觉影院;6080电影

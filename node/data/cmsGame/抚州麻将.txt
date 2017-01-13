@@ -1,0 +1,14 @@
+﻿@应用名称|抚州麻将
+@apk大小|22.0MB
+@apk下载地址|http://p.gdown.baidu.com/01728c5aff972a5bfb0fada89cfc6db8e9f87da27317a1cb595e7d65596fa0da5af24387385a85235d18e49dd976fe5f141cf0cf4368df61678c028e0bd9b6512cc94b5b9afc3bcdbaad6c465dd39bdb75c012d3977767bfad50476579de6f2f9dea45e74e512f2ce61cf2cee76a11e1745e595df65ea50be6d52255d737d5bab8420f96f1a4d67c
+@应用类型|棋牌桌游
+@应用简介|抚州本地地道麻将玩法，绑一炮、四归一等当地打法，趣味十足。目前抚州麻将场景采用的是3D视觉！除此之外抚州麻将支持互联，无论您用的手机、电脑还是平板电脑，您都可以和朋友一起游戏家乡的麻将。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/9034b9ceec158b334706f374485d5607.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/1f04aa090b121fc7f6f33069f331cc92.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/57688eec547c83dacddd791ee6b9f924.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/e788035baba3fee5a6aa0dc014d4500e.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/90ef9ee870172c45a26fcc0b305e1881.jpg
+@描述|抚州本地地道麻将玩法
+@更多|4
+@下载数量|678

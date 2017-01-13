@@ -1,0 +1,14 @@
+﻿@应用名称|王者荣耀
+@apk大小|346.7MB
+@apk下载地址|http://p.gdown.baidu.com/a308368017e5a20afff595dee68f503a478e51346ec56804681dedb142128f1298eafca9cad2d493228dbe5db6827746cfba050472a238c6c271d41e3bb660c30573e038727dc0706012be599bf9adc6cc021e3a31f072558ffbb808e38a06fef4c3ccee4d13d7ff2675e1d36e9d7548f1aa2891eb226caecb42111843a68e276fc0b4c4f6237cb934517c65c4342b0363966f198a7558c7b8d233afabe14ca7c1250aa4f4faf971b1ae64549e544fc6bd2a6fcbbda8e8e881b16374f145d15e3659e9e085d50ddd286dc844ef56b2e5690987cc4925c8223bd6aba6f279b760bcbee33ae15ea2ebd21c33d8ef00574e5c222d1ebbadb9f9
+@应用类型|角色扮演
+@应用简介|《王者荣耀》是一款全新的5V5英雄公平对战手游，腾讯重磅MOBA手游大作！5V5王者峡谷、5V5深渊大乱斗、以及3V3、1V1等多样模式一键体验，热血竞技尽享快感！海量英雄随心选择，精妙配合默契作战！10秒实时跨区匹配，与好友组队登顶超强王者！操作简单易上手，一血、五杀、超神，极致还原经典体验！实力操作公平对战，回归MOBA初心！赶快加入《王者荣耀》，随时开启你的团战！
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/cacbb1688c292ee88a8fe269484af98d.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/bad75093a3a3167ffb37c23516cd3d4b.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/286513546e017a89088f88916b50f1cd.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/87cc5086bc63903a864007f70583f882.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/7cd528519c85a7a565a9a5858cc95d2c.jpg
+@描述|5V5英雄公平对战手游
+@更多|5
+@下载数量|445

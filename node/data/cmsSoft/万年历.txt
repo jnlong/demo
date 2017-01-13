@@ -1,0 +1,31 @@
+﻿@应用名称|万年历
+@apk大小|14.1MB
+@apk下载地址|http://p.gdown.baidu.com/6907a1c585efc6422dba47dae3891e5b7835ba5a95c5e10157ad68cdb4efbf6fbaf9854651b2e4e6552a738ca5f31cb37aabe81c7be09de806a008c524c6929f6086e61e6db94bd88f488e4734dd9cb3cb91885ea5361fd0b87e9b7919648a07f0a6c088a4ec7b8cc0a734d9b63c0a6946c0df255f6cfbc9d86882f5372bc1a849a566c474898194a8f982f356eb88fdf727c8ea5d686adfa9f0cf8de7bd2cd51326a471bfe765d0c58f29b5df2eeb1196bee32f8bfb041cc79a0f40e6200d2b7a36dd1b4ce92ed631396dd1aede08621cf4f47796560db788164169d17bb35b039ee93a193e884a601a5d985f872d65c76379816d5de20f7e18099ccd010a0d
+@应用类型|生活实用
+@应用简介|适合中国人的万年历，集日历、农历、记事、提醒于一身的生活助手。
+一亿用户的信赖，众多电子市场装机必备软件。
+【产品简介】
+①日历：黄历宜忌、节日节气、吉日查询、历史查询；
+②
+提醒：会议、记事、待办、日程管理、生日提醒、日记本；
+③天气：天气动态、未来一周天气、PM2.5污染提示；
+④ 特色功能：星座运势、资讯卡片、周公解梦、观音灵签、财喜罗盘、安全期管理、人体节律、马年运程。
+【产品特点】
+①全面的日历查看功能，随时掌握日期，您的时间管理专家！
+②界面简洁，不冗余，凸显中国风，做优质准确的中国日历万年历！
+③更多实用功能，将时间与事件结合，高效生活！
+④完美继承和延续中国传统文化！
+【联系我们】
+官方网站 ：http://www.51wnl.com
+官方微博 ：@51万年历
+微信号 ：youloftwnl
+qq交流群：186720268
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/82d806e7c8ec436adb02a546b40aaf2d.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/93c0517bd7327a2b129948404e25937c.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/a0ffca4a2e80abc48a0da4916ba1f299.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/3f59942f395d0ab05f40b0706330aefa.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/2ac4d9bb1fa9fac120f98e8842317769.png
+@描述|一亿用户的信赖
+@更多|4
+@下载数量|567

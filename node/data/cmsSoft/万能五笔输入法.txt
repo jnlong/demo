@@ -1,0 +1,11 @@
+﻿@应用名称|万能五笔输入法
+@apk大小|14.9MB
+@apk下载地址|http://p.gdown.baidu.com/a522895ecfd630fcfeb139416e6697533a089064054ffa01c6af2386d20230d62ba916994df2d599d284639ffdd472ce53ab93ae87051fe1d9cdd7dc055c9ec9ebba4565922a900a1086359a7898dbe1c3b8ab26ac9b46f9227358f66a1035cea2ff00d3f5609dcefed51b22b02f631c3455eceae4d50c09b00e88a24865cc6269c8063db7261941734aaf7b901b6523daf074be5cdeaabb1d84c629645597474b5c0133ccb714a8ea285c9e5910d387621d4c97397d838241b22c657fa478329157f49b23cc9f16141cf0cf4368df61db9bae9551d805d5c4c63219f7413b410db1e63e4f79b884979f13eaa3e4e415d5fa05dc9432e80a7613c9051ba34b1446d47db3cf7a228ce49babc395d06137365a66636a8721a68b425b78573129f2
+@应用简介|万能五笔在PC端累积了多年的开发经验，对五笔用户的喜好与使用习惯有独特的见解，在1.0版本中，已支持五笔拼音混输与纯五笔输入，输入法默认使用为五笔与拼音混输模式，拼音与五笔无需切换，如果想使用纯五笔输入，把混输功能在设置中关闭即可。
+@应用类型|系统工具
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-10/1a51e899bf8db7d1b8a472837bbcd7db.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-10/90cef64857805d3f45fb2c74615db03a.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/6401d92c92d877df6900f16b05a4e972.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/0cabc879eca1058539bb6127d7c41ec2.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/fb47a328db0428a858498ff46abf3f96.jpg	
+@描述|万能五笔，满足你的所有需求！
+@更多|4.1
+@下载数量|39万
+@三个关键词|五笔输入法;万能输入法;万能五笔

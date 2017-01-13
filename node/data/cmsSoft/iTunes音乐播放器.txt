@@ -1,0 +1,30 @@
+﻿@应用名称|iTunes音乐播放器
+@apk大小|0.9MB
+@apk下载地址|http://p.gdown.baidu.com/7ad9a769dafe360c32bb57f7bc2ade5e7e151ddef91afac9a9103dee9b6c7939d4f69d5d91115e5f7a63cd5de0e2015317428e6ae4cce259d33230cfa758d9221740fb89018dd739a5da51cbbeaa01d578d68f0d832a55bdb6c254cf34e5ddb8153d208bb8f28b721ca285e24f81f7057e998ee30a8369eddf5bd43a74803474df6ec15efeb83ac0e9af2e7e6c365063aea11e0f489ef8e6a103288a35c8cf07db7acf272c5b5cc6e2233d60cdf2a8186ee5f4866d4e69a101dead631527f4dc2b3e5dc56c6228fb1a0655c4850c082faf6392683efa7b74141cf0cf4368df61991f538eea71e5d5731eb4b629f9ba504d93530859fa70302214f2aab5ccaf26e0669fce6846753da8119e7af07cdf6303e4a28c3dd8132b2147bab10ec5a7dfa334a8ab8b5c78341edc53fcf53ef0d2
+@应用类型|影音播放
+@应用简介|iTunes音乐播放器的Android是最好的音乐播放器为你的Android手机。 您可以轻松地管理您的音乐，为Android音乐播放器将引导你轻松找到您的手机中的所有音乐。
+主要特点：
+*浏览和播放您的音乐专辑，艺术家，流派，歌曲，播放列表，文件夹和专辑艺术家。
+*音乐文件夹选择。
+*支持所有常见的音频格式(MP3，OGG，FLAC，PCM，WAV，M4A，MP4 ...等等...)
+*基于标签和文件夹导航
+*无缝播放OGG和FLAC(需要Android> = 4.1)
+*选择5个不同的主屏幕小部件(4X1，2X1，2x2的，3X3，4x4的，4X
+2)。
+*支持锁屏小工具，没有必要打开应用程序来控制音乐播放。通知状态支持显示专辑封面，标题，艺术家，播放/暂停，向前跳过和停止控制(ICS)的通知状态。
+* SHAKE IT的特点：让您的手机摇一摇，播放下一首/上一首歌曲
+*创建播放列表的快捷方式。
+*音乐库的搜索。
+*基于OpenGL的动画封面
+*通过设置高层次的定制
+*标记编辑器
+*耳机/蓝牙控制
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/2e87129b08be6e2879260e2dd204b333.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/999d8d77f72ad3e129b2e7b8d3242d13.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/22e622d61418ff065a49ca222f4a76df.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/c077d57598095fdc30186008f4d04f88.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/480f7d0f76d9e1c3681d9c4f47405ea4.png
+@描述|最好的音乐播放器
+@更多|5
+@下载数量|680

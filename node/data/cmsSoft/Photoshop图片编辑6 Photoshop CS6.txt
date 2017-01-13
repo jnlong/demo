@@ -1,0 +1,11 @@
+﻿@应用名称|Photoshop图片编辑6 Photoshop CS6
+@apk大小|1.0MB
+@apk下载地址|http://resget.91.com/Soft/Controller.ashx?action=download&tpl=1&id=40030405
+@应用简介|***现在在Android Market商店***/播放像亲和编辑图片，给你的图片，用Photoshop CS6专业抛光的外观。奇妙的效果，字体，图标，在此应用程序的对象，为了让您的照片看起来杰出。即刻分享您的照片在Facebook，Twitter，Instagram的，ECT。***这是一个必须有应用程序***
+@应用类型|拍摄美化
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/464e4ad014f8400656add7eae33aa4c6.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/4b774ce371cfa17dd9fcaee95c4beca5.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/a11c3a240f19cb9deda2b5d7a18155fc.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/0e19bf402ae181097cba838cdfee3316.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/2bb805b3657210adec13150080b1b786.jpg
+@描述|最专业的图片编辑器
+@更多|2
+@下载数量|5万
+@三个关键词|Photoshop CS6;Photoshop图片编辑6;图片编辑6

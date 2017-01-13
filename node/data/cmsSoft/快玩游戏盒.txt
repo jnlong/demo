@@ -1,0 +1,11 @@
+﻿@应用名称|快玩游戏盒
+icon：http://s0.hao123img.com/res/r/image/2017-01-12/5df227a8c4a42114bb92f3f65b403b10.jpg
+@icon地址|4.2MB
+@apk下载地址|http://p.gdown.baidu.com/593d2e15c62d581ed822b509d30d0bb0b88b2ddf095962e242195f76c62533f3854029671702eb487d829f6b934d8b3249048c0b011e3b2708789b0456709be91d46e49b56afc01679f6cbce7f2c7595f3c17bf455b591295d7bbb5c540312ce987c242e79964429593bdabffe714d5675d23a66500d01fe8bb9ac9d6058b1bbcce660c6e9b9d359a1f57a8d31c73780d39e7f75feed1a286686313c02577edbf1881bf21dc52cbc682d7cf6c65b3c63fdcb16cd8fa5574182f2deecbdc75ae512bb8ee40e11220175f9b5557988f88352651f73c5d0e634d4147d45cecab481b36db55e6c236034190f843d3de642bb7edd1ba9f7c7d9cf48254c37959b48c01814e44cb9e8fbedeeea8f073b8f5af8481f7b3a80aa2612a05df64e80faf6abd6e279579dd3da7e
+@应用简介|快玩游戏盒，一定是最全的手柄游戏平台！超2000款精品手柄游戏，完美支持市面超500款手柄，无需配置、即插即玩！小编每日为您搜集*全、*、*棒的免费游戏资源，破解、汉化、移植等大型游戏一网打尽。大型游戏轻松安装，上G的都是小儿科，独创的GPK模式分分钟搞定游戏安装。一键下载安装，自动适配您的机型，省去寻找数据包的烦恼。从此尽情享受手机和手柄带来的双重乐趣！
+以上描述中存在违反广告法的内容，自动用*代替
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-12/184784425d893d13427a0c95ec3aebdd.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/e518a4fd1854b53c0081ac23471882da.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/acc852607878b3bf76e4d5f8ff83ab73.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/b814641eaf587c34fbdc53ebd96d032f.jpg
+@应用类型|系统工具
+@描述|最全的手柄游戏平台
+@更多|3
+@下载数量|2000

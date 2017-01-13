@@ -1,0 +1,11 @@
+﻿@应用名称|QQ游戏
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-12/854c9846ea24bd4cea47a4c0c41687ff.png
+@apk大小|14.3MB
+@apk下载地址|http://p.gdown.baidu.com/3b5c7817b5629a5397d042255327ce5cc1250aa4f4faf971cccc9b205776415a87c4896bd4820523db95c80ce644ef0f0ec5d45fd023fca3f45d12433984d6b7b3ac8ae5d5732e5603eb8f5b4097f052fad18cea496e38a3e2076486e7b530f7
+@应用简介|QQ游戏，腾讯手机游戏平台，一次登录即可畅玩斗地主、欢乐斗地主、五子棋、象棋、御剑、植物大战僵尸、非仙勿扰、连连看、对对碰、俄罗斯方块等海量精品游戏，还有比赛场等全新玩法独家发布，让你随时随地尽享指尖上的快乐。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-12/2733d05d7e35b6df9758c970a789174f.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/efb3fcaa0a2841d7bc870e34de36d345.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/083312016a0b821787916332f52f5cf7.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/de926335bf80b9daff39f5b0cd9003da.jpg
+@应用类型|其他游戏
+@描述|腾讯手机游戏平台
+@更多|5
+@下载数量|6000

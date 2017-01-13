@@ -1,0 +1,14 @@
+﻿@应用名称|PDF转Word
+@apk大小|1.5MB
+@apk下载地址|http://p.gdown.baidu.com/8f02188b287af564a688f4329841fb2492a7cddd0b0ba44ab15f795660074a48ffb38d976d4c9996d236225be6aaf8bf453bdcc5ad633eaab56872b52025c656991018ad339ad9c82b3aed5aabe5437548288f86f2f349d32a2ab657730b72d481a96961f3a7295ff57b15ee00f8e52221148f65379e71737f2960950c5c815ba6453a34c69a73cddc654bf6858d61f90f9bb1dc800c3353931063fb422aded1102e07e04516095224ad7bc445556e0462fcf60d75f483394626a7442a33f131f19191642fd716dd6db2b91a81a1fbc64dd4e14dc8d793102a9260532f08c5414a8a628b5445f0bc8fbfa2f72f4e699f8a63ecb16794753a3fa239c29fe27d233a5b542db3807c85e1c767b40810b2fcffb3e77b8fd5bc61e27d081bcc6f2507
+@应用类型|办公学习 
+@应用简介|还在为应用市场中没有pdf转word愁眉苦脸！？关键时刻没有电脑无法将pdf转word！?电脑上的转换工具庞大且收费昂贵！？在某些大家都懂的情况下往往很需要将pdf转word，而我们为此而生！因此PDF转Word横空出世！她(meilv)以天马星空的便捷和流畅和小巧和可爱给你带来如散播亿万生命般的快感！并且她居！然！免！费！好看的人都已经点击下载了，你呢？
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/e844a13961a9a76b57f265eba46aa71b.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/e769dc0304e287f3b40f00ecb1c56264.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/33ed1c93aa1d7d1fe327272d500997ac.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/c6f5f115aa8021a0aebf9a1d61d5318f.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/fcaba7e1a209587fd07e76a34946e812.png
+@描述|功能强大的转换软件
+@更多|4.5
+@下载数量|300

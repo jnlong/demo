@@ -1,0 +1,14 @@
+﻿@应用名称|斗地主(单机版)
+@apk大小|19.8MB
+@apk下载地址|http://p.gdown.baidu.com/c8957cd128c9863ff79d1806c9f1cb4ece341c88fa400c680203d9aba0784072e1c0a9422a54d76052651f73c5d0e634cafe1f674cb8cb4cdfa4dd3c29b48ce47a1055a0c09248cc2a48c1c49065fa2cdcda6983fbff157ed1d0cfcacad87032c81505f41273ded5995194d89f6baf5921e800ce374632b21f0b3f77fcec92f5
+@应用类型|角色扮演 
+@应用简介|斗地主(单机版)是一款免费的经典斗地主游戏赛事竞赛奖励丰厚，精彩比赛不间歇，各种话费数码产品免费兑换！无与伦比的游戏体验，清新场景不伤眼，流畅操作不卡机；地主、农民、场景设计精美，配上欢快轻松的音乐，让玩家瞬
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/b696e8391787e37ac9abfa0202111546.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/2f79e6f4d430d4fb70e5b7839f62d2a4.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/96992dc7ff6a91405546b5e09ee613c9.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/8ada5d432dbf46112be8c5ecb131b613.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/04a7d0bdb5e3dc5a4879b313acc285bc.png
+@描述|免费的经典斗地主游戏
+@更多|5
+@下载数量|354

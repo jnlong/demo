@@ -1,0 +1,11 @@
+﻿@应用名称|酷我K歌
+@apk大小|11.8MB
+@apk下载地址|http://p.gdown.baidu.com/d70b07769a74ee81643a8a48f01f274f272b0cdfa5af6562611b03f56c86f024312a9e0e3c1aed64418821ed1a2edaa77fbd0a10016897ea71297d82c00c6f3bd8dfb95fbf7e67d2cb9155e23c41de3dac100d0a98673c915b49e1057b4e2092f160239ad91dcfb7a05704d756389e29d261dd4c4dca5cd6905b75d8d9e7cdf608f6ddc881917eea65b6231a17afe6614f508306e35e2fdf81db170e040eedfe9e279f858fa15f094ac30d0ffd098ac5c7c339bbd95718c0f255cc24f8d4da0a2e465c5e6dab062751b933df3fb350fe4dd6ff391aac0f18b9c9cc3ca6ffaadbc3f607bf66f095e7fdbd569ad38efbf637aa82c81af62c9d141cf0cf4368df615c8fa6bd857c0b6ad6526db1a6b7ecfc50476fb699a6ab4edef829cd2eb39bc680ca2f136ee4fb41e61257ddffe67587ac4d17d4b5c1e37dcc8f5e750f92d32da4c6e96a8f24f86a7e18099ccd010a0d
+@应用简介|酷我K歌，酷我音乐旗下手机ktv神器，爱唱歌爱音乐的k歌达人可实现在线练歌、录歌、直播，尽情唱吧，天天好声音！在汲取了歌友们对旧版本的意见后，酷我K歌对软件进行了重构，新的K歌体验将更好更流畅，同时歌友的交流形式也大大丰富，你可以在这里感受到浓浓的人情味。不仅如此，酷我K歌致力于发现更多好声音，对优秀作品，我们会将其录入酷我音乐，让你的好声音天天动听！赶紧体验新版酷我K歌，尽情唱吧！☆功能介绍☆-海量伴奏曲库，新歌热歌每日不间断更新；-原伴唱自由切换，学习新歌的秘密武器；-练唱图+智能打分，助你迅速提升唱功；-混音功能，美化你的声音，打造专业效果；-最好的网络KTV体验，趣味又丰富的互动，最具人情味的音乐社区；-完美造星计划，与酷我音乐零距离对接，助你成为明日之星；-强大的家族功能，让你体现交友的无限乐趣；
+@应用类型|影音播放
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/fef7e5c4df4733cf0abd1867ac5d833b.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/bb720f1d9c556aa571d45e4945c47ccd.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/88f3fccffc7d29ac5db4307437826e59.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/8ced17d2c31cb0a41c03aaa81ac87c06.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/c123960c0f909857928805974e6f037c.jpg
+@描述|K歌神器，尽情唱吧！
+@更多|4.3
+@下载数量|736万
+@三个关键词|酷我K歌下载;酷我音乐;酷我播放器

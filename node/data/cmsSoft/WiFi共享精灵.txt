@@ -1,0 +1,15 @@
+﻿@应用名称|WiFi共享精灵
+@apk大小|5.1MB
+@apk下载地址|http://p.gdown.baidu.com/fec15f1680bdddd1fa2bf31e6c6d8efbbf97733d2dfde0cd6b96128a3cea5c58b857c4db6193b5198be2aae6ac36068a73b4a05a73250368f2e375438625ff77af5e29e6a0ce72aa792f08750bc819810899ebfd75fb6cdef1de100694085ff9eebd609a244961760df4ef285edab612e942ac66031e382bc47bddd2b514d850c727765f849f677ece0bb9531e149787c3e5bf217a2e1d528c503c459cf5a4c82b4e3aea560a282a86ae64980f9ea4e90869f6acd982b80bd40790c0e99868cb13809f8c37646b6b11b87b7d150412e48f5bd02204cfae3905cce18adc7e2beb56141b1afd0ebacd3570d28fb5544070e106da5fca183b4d874d9d91f2818ceb1c6440c792c8e4c2fe2083409666afd33b5a74b9034cffd85b36f8d2e502d246
+@应用简介|"软件介绍：
+Wifi共享精灵为了真正意义上解决wifi上网的“随时随地”与“安全可靠”，因而贴心推出wifi共享精灵手机版，一键开启手机热点，使手机成为发射WiFi的信号源。不仅其他设备联网方便，也能帮助我们监控流量，防止流量超标！
+
+【友情提示】有时手机连接免费热点仍无法联网原因，有可能是信号不稳定，可以尝试连其他WIFI；有任何问题和建议都可以通过“更多”中的“意见反馈”和我们联系。
+产品主页：www.wifigx.com???微信客服号：wifi003"
+@应用类型|社交通讯
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/5873c1d29216b7412e87fe4de642db11.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/3670dc7c75354fb737827720fcf1db36.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/08383e32ea30e5d77ce316f109903f73.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/098da8a0799c871495798f27fc0b4334.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/7ad1edba49f2dc991340509feaa31e81.jpg
+@描述|国内最优秀的免费WIFI上网软件
+@更多|4.5
+@下载数量|195万
+@三个关键词|WiFi共享;WiFi精灵;WiFi共享精灵下载

@@ -1,0 +1,28 @@
+﻿@应用名称|Excel 2010	 			
+@apk大小|57.8MB	
+@apk下载地址|http://p.gdown.baidu.com/518c90c86e7be923e512ae557ff0deb33b36130fbc1daa9dba4c87fc873c9a5351580fe85b85031a0c4115d88130a0f3b2e46f1a10e5c3a96f023fc3220d4007c0394f24fa44cfd30f119f469247717adb0c268a15445653cecdb076648d4379d8d96b86df92866bec7fb30bfb5646b0217ff7bd2e5324827bf0fafb4d1c98743e4e1622e9837484baffd189f237f362ff1636eb492581de82caff11094924bb13809f8c37646b6b88e8d20f64536588ae5dca539d05db36f098a37e53691cbd051797c119665788d2f766fe14322d4e7f014916ecda18c280be55dea241fa239ec7d3e06ba681a12b532ce6191d5a9ea8b33c4de4b3f7bb8d13d40a0b285d48
+@应用简介|微软官方发布的免费Office办公软件– Excel应用
+为安卓平台而设计，完美的触控体验
+熟悉的导航和菜单选项帮助您快速上手
+熟知的电脑端Excel功能可以在安卓端应用中使用，例如：公式，表格，图表，迷你图等
+免费安装此微软Office应用即表示您同意此条款：http://aka.ms/TOU.
+轻松搞定工作
+使用公式、图表、表格、排序、筛选等功能对数据进行整理分析，使数据可视化
+通过简单的手指触控操作轻松添加公式、重排列、调整表格大小等
+跨设备访问编辑最近使用的Excel文档
+协同办公
+与云服务无缝集成，让您轻松分享电子表格
+通过电子邮件发送文档与他人共享成果
+在10.1英寸及以下尺寸的移动设备上可免费查看、创建和编辑文档。购买Office 365订阅账号便可以使用更高级的编辑功能。企业用户需用符合条件的Office 365企业版账户 (包括由世纪互联运营的Office 365) 创建及编辑文档。
+要求：
+操作系统安卓4.4.x 及以上(Android M暂不支持)
+1G或更高内存
+收起
+@应用类型|办公学习
+@icon地址|
+http://s0.hao123img.com/res/r/image/2017-01-10/091289d3753ef5f390e43c9ab1b09e8a.jpg
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-10/99e5f4908222f12c3b41117901b0585e.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/4e62852c620457f7887050e0812d17f8.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/1259a75fc9a865af96f32e0eeca31d38.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/b470d8292cb994f817831e30c33ec0cc.jpg
+@描述|免费Office办公软件
+@更多|4
+@下载数量|3000

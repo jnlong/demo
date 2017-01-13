@@ -1,0 +1,14 @@
+﻿@应用名称|QQ输入法
+@apk大小|13.8MB
+@apk下载地址|http://p.gdown.baidu.com/40e62eaaf244d89d1858f54dbff53a90e6a20f8e640d9c5ba711be674628bd5031783c41d62d16fa33733ba3efc20755f60fbcc9b6fab06605466678eb3888a9f65098f8b9c7df11b897fb7c68aeb6d9f10f9c1095229184f82e88651ffcd3c113809f8c37646b6b63718e3236e3732e9ebbd75c96dc31039f3416ebcae6f315d5fa05dc9432e80a393e849e91e0f8615779b437c1d6bc0a4fe117c8adeadf1ff30931c05826a975b6449395a953300cb8420f96f1a4d67c
+@应用类型|系统工具
+@应用简介|QQ输入法是搜狗公司开发的一款手机输入软件。能够支持基本的拼音、英文、五笔、笔画、数字符号输入，还支持手写、整句输入、智能纠错等扩展功能，足用户不同需求。QQ输入法通过多项领先技术，为用户带来更快、更稳定、更流畅的输入体验。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/7494f94085f7017b69add6ebcfa6cf38.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/8d4540f84732e5c5fe47ef3b3f4b5b3b.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/a57eefcc55e00401a5950328a09981fd.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/a98a2189c053dc71e1717b8d3c1c851d.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/3f85cf012a72e89602ffb0abc03fc0df.png
+@描述|一款手机输入软件
+@更多|5
+@下载数量|968

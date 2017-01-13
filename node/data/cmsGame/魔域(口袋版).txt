@@ -1,0 +1,22 @@
+﻿@应用名称|魔域(口袋版)
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-12/4448e4ece184ad7b2b90302ab04ce2ab.jpg
+@apk大小|489.9MB
+@apk下载地址|http://p.gdown.baidu.com/a2b6253da2692928ad7c1d78bc7bcef307c91b27257180cecd9e581574dffb8986304784f3e7d27d87af17a3a87b39cf5a67bce225007c436e9156b1a7d8d9dfd474976c277b26f2558eabbdbccb4e063633f91f1fdc459652651f73c5d0e634d642467514253aab9cd40775e07a22a230d2106450bd6e3f954d51c3fd69f89b8c6e98732dbdfe5706264b1feadfc7e72a8f1dea12bd3a9d5837e6d454ded837b74b6b1e4cd0c0d6461b273418b12398
+@应用简介|魔域官方正版手游，《口袋魔域》打造国民级热血PK
+全新资料片“家族争霸”震撼公测！
+新增家族玩法：六对情侣共建家族,精英抱团才是王道！！
+– 家族战：6V6精英团战，对抗VS合作，一触即发！
+–
+战力分享：家族越强，升战越多，倒金字塔式加成让你瞬间“抱大腿”；
+–
+家族支援：家族成员激战PK，瞬传支援，给予对手致命一击；
+– 专属频道：家族专属私聊频道，即时沟通打造“家族聊天室”
+全新秘境地图：神秘幻境揭开面纱，丰富奖励带你秒升战力。
+拉风双人坐骑：撩妹神器双人共骑，边逛边聊体验“双宿双飞”。
+全新专属活动：十大活动倾情回馈，最强家族的荣耀等着你。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-12/766fa2f5581135058a88fa28e66ca111.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/37e5f17b0a19ff2cd6c47a1ab39024e8.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/9e5c27fa115572c55b684755a4c281ef.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/68d6689527d4008b23af9e59a8755281.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/ec0407ff10e38b4333ab85b0172f327f.jpg
+@应用类型|角色扮演
+@描述|魔域官方正版手游
+@更多|3
+@下载数量|1500

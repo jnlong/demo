@@ -1,0 +1,11 @@
+﻿@应用名称|瑞星手机安全助手
+@apk大小|12.9MB
+@apk下载地址|http://p.gdown.baidu.com/aef02b98806fa7e1f94cdf8d17031cfed2bd5ed36c412acb1b70a69631fb14e320b5fecb4e8315c73ac8da067c9e02a9e2064f453d51a7b7e63370aa0c93957fb13dd6852ed467d71358da16d6f4c4b7469daa68da12a5d322a3798b8aa3543c92d991c2891adc6a94dff4f9ad8760d1418cfdb4902894a920e1a8f0095a8a067d8bc20c021fe2fa73890343b3638f62be69e97f86512bb8ed6171918304f32e5ed7387a5c9cbd3ee7ef46a800832da606ab1232073643b0b5330c3ab0007ea338321bf5623430e81a59cd409aad53073accccd5ff1c7c02cc599978c7cdbfcfce114c00857e5b3f4dd4e14dc8d793103e3ef3e8956e64f2812847684a547243558e3e794de25f07bc2ef339de2621908e435f307aca9244c07744aeca1e9609c4b264ff0a06d7b994f43a04821ff09070012700c7faa1ace123a6fe3ff1d2d0461c35f6891e0944
+@应用简介|拒绝响一声来电骚扰；拒绝隐私被偷窥；拒绝病毒盗取账号信息；数据不怕丢；找回丢失手机；流量监控流量校正；联系快递、银行、售后服务、投诉举报，常规号码查询一个就搞定。更多功能，快用瑞星手机助手体验吧！
+@应用类型|系统工具
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/c794fd36ed44a174baa22954d92581be.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/23ab83e6b2820f16f011741548af7ae2.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/9c3f4f13f925156084164b0a80d6316c.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/81ed3107085585b0bfa1227434238a88.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/5774161c22cd42514047666924bf0e62.jpg
+@描述|全面-安全-更智能！
+@更多|4.5
+@下载数量|233万
+@三个关键词|瑞星安全助手;瑞星杀毒;手机安全助手

@@ -1,0 +1,14 @@
+﻿@应用名称|寰宇浏览器
+@apk大小|1.3MB
+@apk下载地址|http://p.gdown.baidu.com/1b1e25ac927216ca2fa0d65ca6cc766dc04022695dd00d85662185db7714769a609745195eca8f285613f823f333124977b0a966ef6c60a0aec4fbbad64fe6a7f672fbbb664d94288c08432d80fe128feca7d2bce6e3f01054e9e3a36b08b70c09ad46c48f2ba4eb125d6407ecce29b0c9e54c42354f2ccdfd35b05b205c17e044f3f467bc6d27f905c1e01ca8e0fdca37aadab239a53887e55bf6601f3e535fa0533c4ccb6b46977850b0bf459e5562ce114c00857e5b3f4dd4e14dc8d79310c730b05917359eefb942ac75d3a14b69182bf295cb4b319e09b4d9b5c1b7eddc85e03c5c1dc3dae4ae06ad886638c62e4bd16e7d6cd0f04dee8be9b36dee173b535edb0e98c55eb1ff036158e94af020
+@应用类型|生活实用
+@应用简介|寰宇浏览器7.0，一个出色的浏览器,快速安装，隐私保护，操作简单以及体积小等特点，有了寰宇浏览器哪都能去!!!! 寰宇浏览器7.0，一个出色的浏览器,快速安装，隐私保护，操作简单以及体积小等特点，有了寰宇浏览器哪都能去!!!!
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/f892f23649b90c57312605495b2a0278.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/09cbde4408968f7398d9d9976f855d96.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/cf25a8a0b1c1a104b424e81ba947d2d2.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/4c5c48941236d8f5e5404cb670d8cec7.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/ae5a2f36f65cccf63567db7203fc8eca.png
+@描述|一个出色的浏览器
+@更多|4
+@下载数量|333

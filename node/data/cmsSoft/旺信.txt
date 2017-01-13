@@ -1,0 +1,11 @@
+﻿@应用名称|旺信
+@apk大小|26.0MB
+@apk下载地址|http://p.gdown.baidu.com/bf1403f061f0d0eca3067a714b469a6e5eda7f8c57a2d0fdff7f07a9f845cdb2cd5ea8764b1a854aac5df2d56ea20ce0a980d774ffd48d10429a9334a78a10282d8828620fa461aba5bc0f95682fe005172ebdd2059ea32d9a3dac395797182e6f38cef9b64f5c53b323cd21981aa20d5f588707284b43b65ebee2db8a30989ab338e7dbf2a6077d93d7a954cc92c917d224e63f624afc4585ef9e25b7f2af0d915e3526991a4210d9e462c3dc94171bafd760fc89ab4d50b78cb94ca7b2b30d880fac20b852df0c1d6b8e3966a669ed16f959c7a47d2dfe6d092b3716672933c1250aa4f4faf9712d8fddec1c6e69b32048eb72ab9081c1642157e3db15dc749f4d72b1c0a7b38020472c794b16a9247cc91a32b41fed921cbed5ede79c50cbedac73d1b7f5e2c16e5712592e5443da
+@应用简介|淘宝账号直接登录，可与PC旺旺同时在线。-?在聊天中，可以发送文字、语音、表情、图片、短视频。-?支持快捷短语回复。-?快速发送你心水的宝贝，支持从淘宝收藏夹、购物车、已买到的宝贝、我的足迹中选取。-?宝贝链接智能转换显示宝贝图片、名称和价格，便于交易沟通。-?物流小助手和交易小助手，及时查看订单和物流信息。-?扫一扫，可以直接登录PC旺旺。-?店铺联系人，快速查看我关注的店铺。-?服务窗，自助菜单更方便，聊天背景更有爱。如果你在使用过程中有任何问题，请发Email:?wangxin@taobao.com
+@应用类型|社交通讯
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/68c6545d3a4828a072579825026b5012.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/7b3069a2c99c250ab0087d8e978ccfcd.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/ce674c5444407e8ec50f1fc0629bcf1e.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/e7cb49f736ebba803c7898a068a519e6.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/fd959ccf92087fb219cdf86a2b35e1e2.jpg
+@描述|旺旺全新体验,网购买家必备
+@更多|4.3
+@下载数量|3315万
+@三个关键词|阿里旺旺;旺信登陆;手机旺信

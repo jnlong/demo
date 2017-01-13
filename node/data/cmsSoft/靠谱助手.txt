@@ -1,0 +1,11 @@
+﻿@应用名称|靠谱助手
+@apk大小|3.2MB
+@apk下载地址|http://p.gdown.baidu.com/e364045ebfe0b2577fff9fa6b5f4dfac0f891921a180852499df538237f30e3c043709916742b53931a774626325755f6901ab5bed5c9bda667f5e4e7deff454df657f5b240399cbdee17b286dbec71c1e869dc9cbfc3c270e93cee8f371d65a83c9e674dc5c4f515c944d52d09d9b53dcdb8060f57ebf963bf6c016667c682ccb06e2b4a0751a55101d304b674505dd786a209a0b1e24e613809f8c37646b6bc7f87257b49852e6834456a4477962c9b7b1b65b93ec3ad5d3826d5aa39e0bb0cafdb93fc9c45fed86c5cc7fc8bc0e49262720df928310266c4b484bd41f727f8e636e2bba9a88b50d0414f2efef7b47
+@应用简介|靠谱助手安卓版，手机应用可反传至电脑，完美实现电脑、手机跨端互连，同步互动，数据一体化，让你玩手游更爽更靠谱！
+@应用类型|系统工具
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/7f9b59960a3226c86148010221df3d70.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-11/33e5b3e72010c16c7f108e56b659c557.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/749fc8a9dd6be337062084421e397c1e.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/a597730f566d4e1744eee636eb39f83c.jpg;http://s0.hao123img.com/res/r/image/2017-01-11/bc51028a74c81d5056a5f8b5e1bfea5d.jpg
+@描述|最强大的安卓模拟器
+@更多|4.1
+@下载数量| 84万
+@三个关键词|靠谱助手官网;手机靠谱助手;安装靠谱助手

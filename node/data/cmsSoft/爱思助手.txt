@@ -1,0 +1,14 @@
+﻿@应用名称|爱思助手
+@apk大小|4.3M
+@应用简介|一款贴心的手机智能管理软件，融入诸多海卓原创技术，集手机管家、常用工具、便民服务、上网导航于一体，既优化，又管理，全方位呵护您的手机无线生活。本软件绿色、无广告、无功能限制，如果您喜欢本应用，请狠狠地推荐给身边好友！
+@apk下载地址|http://p.gdown.baidu.com/aa819d0a450508f37469211d554052356b544fc49a428947d15a9602aaaf6f6520f8405848453500f43cc66ff6db7bdc3298ec4afdb8c19ce2865ce83245bf0e2c0196dc203203b87c15e30fc410c3c0860f0f1ff66f6fb2a406319d6fb49646fa309b3efa4a1fc230fba43f6af43d2fbefcdc43962bc94246886ecf151331a1b2ee3a7103c67c65848eebdba8b183c727d707ed9bfa3572246fbd9911165d279a9415f2dc72d7f4cc7197f5f61fbceea8cab03b4d59477d7af29fc4eb68f3e7c63b11031c87abd73b91832ed623d94b8caadb63b684de76b53e446138146903a2885ce9b9fc881c47b0bbc30c5ac70b74e508050c818f1bfd5b8bfdb2bbd124141cf0cf4368df61cfb74a66afacecd37eeda88a876d41dc0a8dbf51b1483515de64a27970d14653d6718f4af520222b2747eb95995103fd5d36cd6a7c7df9ad4b5d4d0c3fd7672699d873bfabe06a9a
+@应用类型|生活实用
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-10/3916e546f4c2660891ca6ae786ecff1c.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-10/a10abf6d62569bc4ee79f4ea1e26cd8c.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-10/796ec6da3681bf5d2bf6166e65ed9687.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-10/c4e75f5b1adebc1f14e16a11cbb338bc.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-10/7198be11df5dc2a4c542d3b0866708f3.png
+@描述|手机智能管理软件
+@更多|5
+@下载数量|100

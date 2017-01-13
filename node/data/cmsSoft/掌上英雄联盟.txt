@@ -1,0 +1,17 @@
+﻿@应用名称|掌上英雄联盟
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-12/5cc5479d175bd0fffbd0fd9ad648c112.jpg
+@apk大小|19.3MB
+@apk下载地址|http://p.gdown.baidu.com/ae296a7a18d1742f94d3b69703dc28b116f6d3967d022d5d1302975e5125891d58d47d97f62ea9e5fe931c639f9c1fc6a3df5eea999c8dd564273422867596e23e7675c57cf0b8b7c4cd8a361333452495698baff0a17853d70ad271bfc9e28898f35f8ed6f0ba91ae97c0c4353049762093102d7e6c0d3e2234066a98a8630d54cc35f708840468622662272972a7e22888283a2ca4841d289032d80432dd360c313ccdddd766a8300073856acd5e4e76fce5b2a808e9d634dace254768f10a9b53b9be54208891a4a15b0cdf56811c7fcb87bcbcd4ebdc
+@应用简介|掌上英雄联盟是腾讯游戏英雄联盟官方app，为LOL玩家提供专业的资讯和社交服务。
+*权威的LOL资讯，首发周免英雄！首发版本动态！来自官方的一手资讯，尽在掌上英雄联盟。
+*呈现游戏好友列表，随时随地让你掌握好友状态，订阅好友上线通知，APP直接与好友聊天。
+*全新个人信息主页，设置个性化头像和签名，做个真英雄！随时了解自己或他人的战绩情况。
+*赛事中心内战队战况、选手积分、英雄B/P应有尽有。还可以进行赛程订阅，精彩比赛不错过。
+*玩家印象，可以给和自己玩过游戏的小伙伴打标签，更多互动更多趣味。
+*更多精彩，尽在掌上英雄联盟！
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-12/7736fa4d14b56cc64b8c2e819a9cc1f5.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/1e696e8a358471cdb93605166cd16c96.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/b1b027bc06712bff9add66168a5916e0.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/0ff4eb23cfc989abc404ebb2c944fc13.jpg
+@应用类型|模拟辅助
+@描述|提供专业的资讯和社交服务
+@更多|3
+@下载数量|1000

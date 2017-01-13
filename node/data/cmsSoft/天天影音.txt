@@ -1,0 +1,11 @@
+﻿@应用名称|天天影音
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-12/eaa3f028490d7c6baf0db96f3a097872.png
+@apk大小|2.9MB
+@apk下载地址|http://p.gdown.baidu.com/1c52233527f835ea96a1f0e3b2b5b57f281c9ff2b87fa04b3b938adefcc65cb8fce9729b74abf442dcfa01c091f175d2e67dac726a0287d6ee06fb8b214a23c339adf2725b0eb8c6bfcf8715a15e37ad2b349f79335463fafdd4fe6f362a3a35720e4965436f11880804d897c565ea16f4d21481c956b2f2cb5b08b1bf052eca41d65520f62582e123195e76baa5043a1cff3da844097d0592e0066bf091f127c58f29b5df2eeb115b25e4bd402690132b44fe353b53b0cf0fd9553cdda64f7c875aa3cc2456fe09ee24f47531ad7a3d468592f3eb8c34310c97f1ff10f96de90c7a9a303f21f59a6c826afe9c3af417b8420f96f1a4d67c
+@应用简介|天天影音是Android平台上最强的在线视频播放器，提供完美高清影音体验，支持全格式在线直播、本地视频播放、高清画质、支持智能记忆、断点续播、边看边下。支持史上最多的HTML5在线视频网站播放，是目前安卓手机在线视频播放的最佳利器，看电影大片，看手机电视随心所欲。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-12/a7c73d9da918878ff1ce4c5c4a3a8eb4.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/801e28e940907640b408ef3399117b0c.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/96474f754797c451d1614c9cfc323e2e.jpg;http://s0.hao123img.com/res/r/image/2017-01-12/3b5f9df9caceacbe2a669ccfaf184fd8.jpg
+@应用类型|影音播放
+@描述|最强的在线视频播放器
+@更多|3
+@下载数量|2100

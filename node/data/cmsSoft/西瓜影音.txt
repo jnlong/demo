@@ -1,0 +1,15 @@
+﻿@应用名称|西瓜影音
+@apk大小|9.9MB
+@apk下载地址|http://p.gdown.baidu.com/e113571fc4fe9a76b0d600a999a2fc4da4c6a94868fcb60371d53a849ee3ff5ec808774d6630f0186c57750cb288732b41440e7b3d30f25d51256a5a824fe8923f0d446b463d8c72e1b245cf4c6ec250141cf0cf4368df6145cbaee5e76124e264d273e9e44c4521145a530caf0b566a4f5080db999c2ab8c0cb0235c1fae8b7b9bcf6057924f9c61c1f15e0820fd58fb69af868cd742e8870a348508bfd6aaeb8420f96f1a4d67c
+@应用类型|影音播放
+@应用简介|一款视频播放器，无需任何转换,不需要任何插件,不需要安装flash。 它的智能核心技术自动检测视频格式，可以播放所有流行格式。功能特点：1，支持最流行的视频格式:m4v，mp4，wmv，flv，mpeg，mpg，mov，等多种格式。 - 快库扫描。它会扫描您的手机的视频，让你更轻松地管理视频。2.支持本地收藏和历史播放记录等。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/4e94d6918191d69c7c6a5d4aecb4ba16.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/5e1e1afae4a2819587032727b8e26dd5.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/7843a4d6d7ca4901fcfd56d915727caf.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/ac7ded6c8e51466cc9cd1fd1e77ca6a8.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/d0ab5222192fcd55a3e3e63d6401b45a.png
+@描述|一款视频播放器
+@更多|4
+@下载数量|
+565

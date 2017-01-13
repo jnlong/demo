@@ -1,0 +1,14 @@
+﻿@应用名称|会声会影
+@apk大小|1.5MB
+@apk下载地址|http://p.gdown.baidu.com/4219d17e50031316b089fcd493bfdc5ae720e1bfde6311dfc961cade76237c71ab4ec4406e0953c541fe0f4c87f3a029141cf0cf4368df61a8720179fd5c0239772ea6d502f4607fbc99eda3bd3ffa975c76928f73a10e89aab4e44af443d46b69d023d781f4d518c234fbcc82e4e4e6967a8630758e6e6f754db9a6f7b410701700be60dd64dea3
+@应用类型|影音播放
+@应用简介|会声会影其成批转换功能与捕获格式完整支持，让视频影片更快、更有效率；画面特写镜头与对象创意覆叠，可随意享受新奇百变的创意视频效果；配乐大师与杜比AC3支持，让影片配乐更精准、更立体；
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/cf04a05fbf0d24768f7555ed9fb0dbd1.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/f2909bec86e928f3e5c6cf51d0137f70.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/21f56fa0e1608e92de8b5b95c90ae623.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/b73f17a77e1a77f4b84018e34900e3e4.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/c9d94d066a1b5c457451632cd963b4ee.png
+@描述|让影片配乐更精准、更立体
+@更多|4
+@下载数量|789

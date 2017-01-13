@@ -1,0 +1,14 @@
+﻿@应用名称|PP助手
+@apk大小|8.5MB
+@apk下载地址|http://p.gdown.baidu.com/8f821d6480c9945418663168b4249c782a7ca701acb5e3ecc0ef7a38633b88577386c9454417e5c48fcb74ee40e721df09acd7da692c7be2ebdb5e7c09f9d92ca444f58b2a0d25116fe354f03fe5e71262020c2d5108239b6e71682e93a2eebb2d9fcbeb474ca194f012815c2940a19d3f2680d780eb06fffa3c79d2dd0409a896f4dab74e62b8423e1ae30286c3c86188100659a0bb19782581ba337b1686d870a305732664a35b0081a7490bdda92ad755788e54b559decfb52a3f6c4dc573a2b5ea4d38a94e336d0f03f32c94670d9f6039f7451e9b94e0de25b78b4fac4cadd96963652d2fa199bbf13adda56e8891b55ac1c9caf13901d4a5214b79276a52651f73c5d0e6349bfc1b6f7f21d33107e83440709e4cb7e59ad5519c1ef4dfde64a27970d14653b191a4b86a8e6a05b385c881018b6a081bc2287145d45feffe5c33db1afba9e50a211b6b7050e8cc3b936ab733328353
+@应用类型|系统工具
+@应用简介|1.简约设计 畅快体验优质资源高度聚合平台，百万应用任你挑选。2.智能搜索引擎拥有强大的神马搜索引擎，找应用快人一步。所想即所得，做最懂你的手机助手。3.铃声大全最火热的神曲单曲、热播的电视剧插曲、最搞怪的耍宝段子，一键即可设为铃声，个性十足。4.装机必备新手机装应用太麻烦？PP助手为你一键搞定，主流应用一个不落。
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/66365d469fe107b45914b4b798becc76.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/45a0c22bd33288c06245ffd5ee1a99b3.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/6e44c9f5e961c9c5fab56ec1dc671888.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/8425d8d9d7f7b4230c1d1ffb65397008.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/6f582f5da60ed9567b2d60974cc2aebf.png
+@描述|畅快体验优质资源高度聚合平台
+@更多|4
+@下载数量|798

@@ -1,0 +1,14 @@
+﻿@应用名称|口袋妖怪绿宝石
+@apk大小|3.1MB
+@apk下载地址|http://p.gdown.baidu.com/1a2e31c29dc2af11e975453becb322538ab11b96e25b868a15ddff4e6510475ad26e46f5e137e184d4a00daf9d956186a19b381d476274a4135cd155d5a096454fc766df3791c89467a3ea9db2d5e3227a975229d7d0f9c7932a26568faed5c124edac4029296295ee200258c606f1c3f7ad3f404eb9caf381756a8cad1777851698e280fc52cde0a999c3668d9bdd2d38ad6f84b1e37fe8e064a908952a50c628bb287480f854c4401d8ef0cb8e3501a87d09f1ec745483c116e595e5f1072666982c6b14bdf1b913809f8c37646b6b3234f294158fa685e1b15c269ec254d622b9bd7f3da12a8965a4a142ad7beaf42f8fad7214bf8b0e2f6b968ba1f04550ce905a4f29daa0674a4bb86a3189e8ca55ecf0ac6e991837da8c148c83efb47affe60c7c6318416f6bfdd9c3e3c903c1
+@应用类型|角色扮演
+@应用简介|口袋妖怪绿宝石493版是一款角色策略游戏，故事从丢失宝石开始，绿宝石是在红蓝宝石的基础上追加了大量隐藏要素和设施,绿宝石可以和红蓝宝石联动交换精灵或者对战玩家控制游戏角色不断前进，可以搜集能量球或各种奖励，挥舞刀剑，发射飞镖，将怪物全部消灭.当前版本精灵总数为493,包括新增精灵个数；支持单机进化升级图鉴；无需交换精灵,精灵的进化完全依赖于战斗升级!此版本可以单机抓到所有精灵。游戏中包含攻略，不会玩了可以看看。第一次运行加载时间需要数秒请耐心等待，以后每次打开都是瞬间.
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/1198520b2cd9ff2e06d1718e8f1fe3d3.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/385fb06598f33519283ac184bd2ad1cc.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/d7bbf4b9aa1a7965252dfbfe83465629.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/04cf10b991dd731ece9526209b032fa0.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/917613ca922f6a9bc43336c4b9e7751c.png
+@描述|一款角色策略游戏
+@更多|5
+@下载数量|334

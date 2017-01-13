@@ -1,0 +1,17 @@
+﻿@应用名称|跑跑卡丁车
+@apk大小|133.5MB
+@apk下载地址|http://p.gdown.baidu.com/767ebb7a5a1251a0e37753444a68ee2e90ac268bed87df7ee260af53e3f51e52a3216abc53327a6dc70683ee40b305994e32223c0ff2dd8dd7479b32c992cfc5ef7773a1540610cd0a5a3874675606af893d412c2d18abfec054b2933e47cf0f7dc3f9c416075108007387d2848a86bc6d24b41d32042af39ee7a1e1d5ca31ceb7d6081b981805719910266f2309995e7ad70e34ff5ad49bd9ac823ceae23f7515e7554c576c4d00aac8b087c7495cd6c1250aa4f4faf97119895646fbee7e0b334097de9f0f9237ce488046bfcb709129d1823f6fbd979c242c9affefc9a7964930f7a06267441584a89d31bc4a005409f48e6c4d2ab1bb9570d7f208b234d7fdee941d7181678761bf56039f6841eb
+@应用类型|赛车竞速
+@应用简介|《跑跑卡丁车》，休闲网游中的领军之作。
+十年辉煌，沉淀3亿用户，每天有无数车手在《跑跑卡丁车》中体会梦想的乐趣。漂移，冲撞，战斗，冠军……每时每刻，快乐尽享
+而今，世纪天成全新力作《跑跑卡丁车手机版》正式诞生。热力战斗，随心漂移，随时随地，尽情享乐。我们为你开拓赛车游戏的新世界，带你进入一个美好、梦想的游戏世界。
+领取专属礼包、代金券请访问百度跑跑卡丁车论坛。PS：在游戏内点击百度熊爪进入社区或直接访问：bbs.g.baidu.com
+@截图地址|
+http://s0.hao123img.com/res/r/image/2017-01-11/ed6776c4a150b24671e9bc13ba12fca2.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/2c23d58daaa2c400590f7c6ff58e4f18.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/660e55e8ed14134d91adacdeda8c985f.jpg;
+http://s0.hao123img.com/res/r/image/2017-01-11/08ce7e8324685e158f517727f2966be2.jpg
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-11/bb23375b3c5d624fa01a961749d99a24.png
+@描述|休闲网游中的领军之作
+@更多|4
+@下载数量|3345

@@ -1,0 +1,10 @@
+﻿@应用名称|酷播迷你
+@apk大小|14.7MB
+@apk下载地址|http://resget.91.com/Soft/Controller.ashx?action=download&tpl=1&id=40498447
+@应用简介|酷播播放器是一款性能卓越的网络视频播放器，是一款具有超高清处理能力并能实现边下边播的万能播放器。 资源来源于网络，只要是你想看的，几乎都能在酷播搜看到。让我们一起来体验它的乐趣吧…
+@应用类型|影音播放
+@icon地址|http://s0.hao123img.com/res/r/image/2017-01-10/7d84aea47cd5316b502117f2283d7006.jpg
+@截图地址|http://s0.hao123img.com/res/r/image/2017-01-10/ae7a1d36baadd14912dbb95018ec86d4.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/e7e04cec59833023dbbe463852b88996.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/368996e05045e2373ccfd2d248aca584.jpg;http://s0.hao123img.com/res/r/image/2017-01-10/d758f6aa25928c29775463a08462de5a.jpg
+@描述|一款性能卓越的网络视频播放器
+@更多|3
+@下载数量|1800
