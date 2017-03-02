@@ -20,22 +20,21 @@ fis.match('*.{js,es}', {
 //合并
 fis.match('::package', {
   postpackager: fis.plugin('loader', {
-    allInOne: true
+    allInOne: {
+      js: function (file) {
+        return "/static/js/" + file.filename + "_aio.js";
+      },
+      css: function (file) {
+        return "/static/css/" + file.filename + "_aio.css";
+      },
+      less: function (file) {
+        return "/static/css/" + file.filename + "_aio.css";
+      }
+    },
+    processor: {
+      '.tpl': 'html'
+    }
   })
-});
-fis.match('::package', {
-  packager: fis.plugin('map', {
-    '/client/static/lib/**/(*).js': '/client/static/$0.js',
-    '/client/static/comm/**/(*).css': '/client/static/comm.css',
-    '/client/static/comm/icon.css': '/client/static/icon.css',
-  })
-})
-
-//压缩
-// 设置CDN
-fis.match('*.{js,css,jpg,jpeg,png,gif}', {
-    useHash: true,
-    domain: 'http://s0.m.hao123img.com'
 });
 
 // less
@@ -45,6 +44,21 @@ fis.match('*.less', {
     rExt: '.css',
     optimizer: fis.plugin('clean-css')
 });
+// fis.match('::package', {
+//   packager: fis.plugin('map', {
+//     'static/lib_$0.js': '/client/static/lib/**/(*.js)',
+//     'static/css/comm.css': '/client/static/comm/**.css',
+//     'static/icon.css': '/client/static/comm/icon.css',
+//   })
+// })
+
+//压缩
+// 设置CDN
+fis.match('*.{js,css,jpg,jpeg,png,gif}', {
+    useHash: true,
+    domain: 'http://s0.m.hao123img.com'
+});
+
 
 // CSS
 fis.match('*.css', {
@@ -69,6 +83,15 @@ fis.match('*.js', {
 fis.media('zxl').match('*', {
     useHash: false,
     useSprite: false,
+    optimizer: null,
+    domain: '',
+    deploy: fis.plugin('http-push', {
+        receiver: 'http://127.0.0.1:8089/yog/upload',
+        to: '/'
+    })
+});
+//prod
+fis.media('prod').match('*', {
     optimizer: null,
     domain: '',
     deploy: fis.plugin('http-push', {

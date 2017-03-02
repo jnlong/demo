@@ -1,5 +1,5 @@
 <!doctype html>
-{% html lang="en" framework="home:static/nomod/mod.js" %}
+{% html lang="en" framework="home:static/lib/nomod/mod.js" %}
     {% head %}
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
