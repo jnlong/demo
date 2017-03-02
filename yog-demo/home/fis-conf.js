@@ -26,24 +26,13 @@ fis.match('::package', {
       },
       css: function (file) {
         return "/static/css/" + file.filename + "_aio.css";
-      },
-      less: function (file) {
-        return "/static/css/" + file.filename + "_aio.css";
       }
-    },
-    processor: {
-      '.tpl': 'html'
     }
   })
 });
-
-// less
-fis.match('*.less', {
-    parser: fis.plugin('less'),
-    // .less 文件后缀构建后被改成 .css 文件
-    rExt: '.css',
-    optimizer: fis.plugin('clean-css')
-});
+// fis.match('*.tpl', {
+//   loaderLang: false
+// });
 // fis.match('::package', {
 //   packager: fis.plugin('map', {
 //     'static/lib_$0.js': '/client/static/lib/**/(*.js)',

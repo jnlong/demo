@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="icon" href="/static/favicon.ico">
         <title>{{ title }}</title>
-        {% require "home:static/lib/vue.js" %}
+        {%require 'home:static/comm/reset.css'%}
     {% endhead %}
 
     {% body %}
@@ -18,7 +18,7 @@
                 {% endblock %}
             </div>
         </div>
-
+        
     {% endbody %}
 
 {% endhtml %}
