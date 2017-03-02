@@ -1,0 +1,18 @@
+header,body,section,div,ul,li,dl,dt,dd,h1,h2,h3,span,b,i,p,em,a,input,button{margin: 0;padding: 0;}
+body{font-family: "微软雅黑" helvetica arial;font-size: 16px;background: #eee;-webkit-text-size-adjust: none;}
+a{font-size: 14px;text-decoration: none;}
+a,a:visited{color: #222;}
+ul,li{list-style: none;}
+h1,h2,h3{font-weight: 500;font-size: 15px;}
+b,i{font-style: normal;font-weight: normal;}
+img,button{border: none;}
+input{border-radius: 0; -webkit-tap-highlight-color: rgba(255,0,0,0); border: 0; outline: 0;}
+code{display: none;}
+b, i, em {
+    font-weight: 500;
+    font-style: normal;
+}
+img, button {
+    border: none;
+}
+html *{-webkit-tap-highlight-color: rgba(255,0,0,0);}

@@ -1,31 +1,11 @@
-/**
- * @file FIS 配置
- * @author
- */
-
 fis.config.set('namespace', 'home');
-
-// chrome下可以安装插件实现livereload功能
-// https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
 fis.config.set('livereload.port', 35729);
 
-fis.match('{node_modules,doc,mock}/**', {
-    release: false
-})
-fis.match('package.json', {
-    release: false
-})
-fis.match('/client/**.js', {
-    isMod: true
-})
-fis.match('/client/static/nomod/**.js', {
-    isMod: false
-})
+fis.match('{node_modules,doc,mock}/**', {release: false })
+fis.match('/client/**.js', {isMod: true })
+fis.match('/client/static/lib/nomod/**.js', {isMod: false });
 
-// 启用npm管理前端组件
-fis.enableNPM({
-    autoPack: true
-});
+fis.enableNPM({autoPack: true });// 启用npm管理前端组件
 
 fis.set('project.fileType.text', 'es');
 fis.match('*.{js,es}', {
@@ -37,28 +17,62 @@ fis.match('*.{js,es}', {
     useHash: true,
 });
 
-if (fis.IS_FIS3) {
-    fis.media('debug').match('*', {
-        optimizer: null,
-        useHash: false,
-        deploy: fis.plugin('http-push', {
-            receiver: 'http://127.0.0.1:8089/yog/upload',
-            to: '/'
-        })
-    });
-    fis.media('debug-prod').match('*', {
-        deploy: fis.plugin('http-push', {
-            receiver: 'http://127.0.0.1:8089/yog/upload',
-            to: '/'
-        })
-    });
-}
-else {
-    fis.config.set('deploy', {
-        debug: {
-            to: '/',
-            // yog2 默认的部署入口，使用调试模式启动 yog2 项目后，这个入口就会生效。IP与端口请根据实际情况调整。
-            receiver: 'http://127.0.0.1:8085/yog/upload'
-        }
-    });
-}
+//合并
+fis.match('::package', {
+  postpackager: fis.plugin('loader', {
+    allInOne: true
+  })
+});
+fis.match('::package', {
+  packager: fis.plugin('map', {
+    '/client/static/lib/**/(*).js': '/client/static/$0.js',
+    '/client/static/comm/**/(*).css': '/client/static/comm.css',
+    '/client/static/comm/icon.css': '/client/static/icon.css',
+  })
+})
+
+//压缩
+// 设置CDN
+fis.match('*.{js,css,jpg,jpeg,png,gif}', {
+    useHash: true,
+    domain: 'http://s0.m.hao123img.com'
+});
+
+// less
+fis.match('*.less', {
+    parser: fis.plugin('less'),
+    // .less 文件后缀构建后被改成 .css 文件
+    rExt: '.css',
+    optimizer: fis.plugin('clean-css')
+});
+
+// CSS
+fis.match('*.css', {
+    // 压缩css
+    optimizer: fis.plugin('clean-css')
+});
+
+fis.match('*.png', {
+    // 压缩PNG
+    optimizer: fis.plugin('png-compressor', {
+        type: 'pngquant'
+    })
+});
+
+// js
+fis.match('*.js', {
+    // 压缩JS
+    optimizer: fis.plugin('uglify-js')
+});
+
+//debug
+fis.media('zxl').match('*', {
+    useHash: false,
+    useSprite: false,
+    optimizer: null,
+    domain: '',
+    deploy: fis.plugin('http-push', {
+        receiver: 'http://127.0.0.1:8089/yog/upload',
+        to: '/'
+    })
+});
