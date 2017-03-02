@@ -30,7 +30,7 @@ var listDef = {
     category: 'cms'
 };
 
-init('D:\\data\\cmsGame', 'game.js');
+init('data\\cmsGame', 'out\\game.js');
 
 function init(filePath, newFileName) {
     var files = fs.readdirSync(filePath);

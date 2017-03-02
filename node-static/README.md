@@ -6,7 +6,8 @@ node-static
 swig
 
 功能：
-1.支持的文件类型
+1.支持常用文件类型 
+txt,image,video,html,css,js,json,xml
 
 2.支持断点续传
 

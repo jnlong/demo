@@ -1,4 +1,8 @@
-
+/* 
+ * @file 静态资源管理
+ * @auther zxl
+ * @date 2016-10-12
+ */
 var path = require('path');
 var fs = require('fs');
 var http = require('http');
@@ -8,11 +12,11 @@ var config = require("./config");
 var utils = require("./utils");
 var comm = require("./comm");
 
-var port = 8086;
+var port = 8011;
 
 var server = http.createServer(function (req, res) {
     var pathname = url.parse(req.url).pathname;
-    var realpath = path.join(__dirname, "assets", pathname);
+    var realpath = path.join('E:\\code\\server', pathname);
     console.log(realpath);
     var ext = path.extname(realpath);
     ext = ext ? ext.slice(1) : undefined;
@@ -41,9 +45,9 @@ var server = http.createServer(function (req, res) {
             res.setHeader("Content-Type", contentType);
             var stats = fs.statSync(realpath);
             if (req.headers["range"]) {
-                console.log(req.headers["range"]);
+                // console.log(req.headers["range"]);
                 var range = utils.parseRange(req.headers["range"], stats.size);
-                console.log(range);
+                // console.log(range);
                 if (range) {
                     res.setHeader("Content-Range", "bytes " + range.start + "-" + range.end + "/" + stats.size);
                     res.setHeader("Content-Length", (range.end - range.start + 1));
