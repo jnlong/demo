@@ -12,6 +12,7 @@ fis.match('**/*.scss', {
 
 // 启用 es6-babel 插件，解析 .es6 后缀为 .js
 // npm install -g fis-parser-es6-babel
+fis.set('project.fileType.text', 'es6');
 fis.match('*.es6', {
   rExt: '.js',
   parser: fis.plugin('es6-babel')

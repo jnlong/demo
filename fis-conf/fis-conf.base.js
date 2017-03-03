@@ -1,11 +1,6 @@
 // 设置命名空间，引用时使用，如require('home:static/index.js')
 fis.config.set('namespace', 'home');
 
-// 对文件增加define包裹，使文件支持require
-fis.match("components/**", {
-    isMod: true,
-});
-
 // 设置不发布的文件
 fis.match('{node_modules,doc,mock}/**', {
 	release: false 

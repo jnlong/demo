@@ -1,6 +1,6 @@
 // 开启模块化开发
 // npm install fis3-postpackager-loader
-fis.hook('module');
+// fis.hook('module');
 fis.match('*.es6', {
   isMod: true
 });
@@ -13,9 +13,9 @@ fis.match('::package', {
 });
 
 // 启用npm管理前端组件,支持直接require npm安装的包，如require('vue')
-fis.enableNPM({
-	autoPack: true
-});
+// fis.enableNPM({
+// 	autoPack: true
+// });
 
 // 启用同名依赖 useSameNameRequire: true,
 
@@ -26,25 +26,9 @@ fis.enableNPM({
 	需要的插件
 	fis3-hook-node_modules
 	fis3-hook-commonjs
-	fis3-postpackager-loader
 	fis3-preprocessor-js-require-css
 	fis3-preprocessor-js-require-file
 */
-
-// ignoreDependencies 默认为空，用来忽略掉对某些资源 require，一般用来忽略掉内部实现的 require 资源。
-fis.hook('commonjs', {
-    baseUrl: './client',
-    extList: ['.js', '.jsx', '.es', '.ts', '.tsx'],
-    ignoreDependencies: [
-		'angular2/**',
-	]
-});
-
-// client为项目目录
-fis.match('/{node_modules, client}/**.js', {
-    isMod: true,
-    useSameNameRequire: true
-});
 
 // 添加css和image加载支持
 fis.match('*.{js,jsx,ts,tsx,es}', {
@@ -56,9 +40,18 @@ fis.match('*.{js,jsx,ts,tsx,es}', {
     ]
 })
 
-// 用 loader 来自动引入资源。
-fis.match('::package', {
-    postpackager: fis.plugin('loader')
+// npm install fis3-hook-node_modules -g
+// ignoreDependencies 默认为空，用来忽略掉对某些资源 require，一般用来忽略掉内部实现的 require 资源。
+fis.hook('commonjs', {
+    extList: ['.js', '.jsx', '.es', '.ts', '.tsx'],
+    ignoreDependencies: [
+		'angular2/**',
+	]
+});
+
+fis.match('/node_modules/**.js', {
+    isMod: true,
+    useSameNameRequire: true
 });
 
 // 禁用components
